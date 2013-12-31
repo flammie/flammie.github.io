@@ -1,36 +1,17 @@
-=======================
- Flammien veppisivusto
-=======================
+===================================
+ Flammie.dyndns.org – kotipalvelin
+===================================
 
 .. include:: rst/definitions.rst
 
-Tämä sivusto on |Flammien|_  kotipalvelinkone ja sisältää siis
-verkkopäiväkirjasivuja_ (ns. *blogin*), työjuttuja, koulujuttuja, kielijuttuja,
-demoja, muistiinpanoja, ostoslistoja, harrastuksia ynnä muuta turhanpäiväistä
-tauhkaa mitä nyt kotisivuilla saatetaan säilyttää.
+Tämä nyt on vain www-palvelin jota ylläpidän huvikseni koska www-palvelimen ja
+sivustojen ylläpito on ihan hauska taito osata ja pidän tälläisten taitojen
+osaamisesta ja oppimisesta. Olen pitänyt tällä verkkosivustolla kaikkea mikä
+milloinkin on ollut suosittua, 1990-luvun Internetissä kyse oli kotisivuista,
+sellaisesta itsensä esittelystä. 2000-luvulla blogit olivat se juttu. En ole
+vielä lähtenyt muihin haihatuksiin mukaan mutta ehkä joku päivä rakennan oman
+wikin, sisällöntuotantojärjestelmän tai mitä se onkaan. Ja pilveäkin pitäisi
+joskus testata, se on 2000-luvun puppusana.
 
-Sivustolla ei ole paljon multimediaa tai navigointikikkareita, kuten huomaat, 
-vaan se on suorastaan tekstipainotteinen, ja ihan tarkoituksella. Lukijoiden
-oletetaankin olevan kiinnostuneita tälläisistä_ tekstijutuista kun kerta täällä
-pyörii. 
-
-Sivuston sisältö ja ylläpidettyys riippuu ylläpitäjän mielentilasta, joskus
-päivityksiä tulee koko ajan joskus kerran vuodessa. Sivusto on kotikoneen
-palvelimella joten tavoitettavuus riippuu elisan verkosta, reitittimen oikuista
-ja palvelinkoneen kunnosta.
-
-Sivuston sisältö käytännössä keskittyy esim. tällä hetkellä paljonkin
-kieliteknologia, koska se on työ ja harrastus. Monet ikivanhat jutut ovat
-esim. ohjelmointia, veppiteknologiaa, kielenhuoltoa ja monenmoisia muita
-juttuja.
-
-Vapaa-ajan harrastuksista muista tänne joutuu enintään jotain levykokoelmia ja
-festaripäiväkirjapostauksia, jonkin verran muitakin matkoja.
-
-Täällä on myös peilit_ muualla tekemistäni projekteista.
-
-Palvelin kovalevyineen tuhoutui viimeksi 2009 keväällä, jonka jälkeen kaikki on
-uusittu ja vanhat tiedot pelastettu vain Internet-arkistoista.
-
-.. _peilit: mirror/
-.. _tälläisistä: tekstit/tälläinen.html
+Kohta rakennan taas hakemistoa ja redirectejä että tämä sivusto toimisi, 
+odottakaas.
