@@ -1,8 +1,8 @@
-RST2HTML=rst2html-2.4.py
+RST2HTML=rst2html.py
 RST_SOURCES=indeksi.rst
 HTML_TARGETS=indeksi.html
 REMOTE_DIR=flammie.dyndns.org:/var/www/flammie.dyndns.org/htdocs
-SUBDIRS=plokit tekstit mirror
+SUBDIRS=#plokit tekstit mirror
 
 all: $(HTML_TARGETS)
 	$(MAKE) all-recursive

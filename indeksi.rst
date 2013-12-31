@@ -2,8 +2,6 @@
  Flammie.dyndns.org – kotipalvelin
 ===================================
 
-.. include:: rst/definitions.rst
-
 Tämä nyt on vain www-palvelin jota ylläpidän huvikseni koska www-palvelimen ja
 sivustojen ylläpito on ihan hauska taito osata ja pidän tälläisten taitojen
 osaamisesta ja oppimisesta. Olen pitänyt tällä verkkosivustolla kaikkea mikä
