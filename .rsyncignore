@@ -1,0 +1,6 @@
+*.rst
+.*.swp
+Makefile
+docutils.conf
+.git
+.rsyncignore
