@@ -1,6 +1,16 @@
 *.rst
+*.markdown
 .*.swp
 Makefile
 docutils.conf
 .git
 .rsyncignore
+Makefile.am
+Makefile.in
+aclocal.m4
+autogen.sh
+config.log
+config.status
+configure
+configure.ac
+autom4te.cache
