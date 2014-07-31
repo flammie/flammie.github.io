@@ -1,5 +1,7 @@
 *.rst
 *.markdown
+*.markdown.fi
+*.markdown.en
 .*.swp
 Makefile
 docutils.conf
