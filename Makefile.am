@@ -15,7 +15,13 @@
 ## along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 HTML_TARGETS=indeksi.html \
-			 asetuksia/python-2-distutils-cfg.html
+			 plokeja/indeksi.html \
+			 asetuksia/python-2-distutils-cfg.html \
+			 plokeja/2004-04-01-old-news.html \
+			 plokeja/2005-03-30-first-blog-posts.html \
+			 plokeja/2005-08-12-kaksikieliset.html \
+			 plokeja/2009-03-01-mussutukset.html
+
 REMOTE_DIR=flammie.dyndns.org:/var/www/flammie.dyndns.org/
 
 doc_DATA=$(HTML_TARGETS)

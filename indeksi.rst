@@ -1,15 +1,35 @@
-===================================
- Flammie.dyndns.org – kotipalvelin
-===================================
+====================
+ Flammie.dyndns.org
+====================
 
-Tämä nyt on vain www-palvelin jota ylläpidän huvikseni koska www-palvelimen ja
-sivustojen ylläpito on ihan hauska taito osata ja pidän tälläisten taitojen
-osaamisesta ja oppimisesta. Olen pitänyt tällä verkkosivustolla kaikkea mikä
-milloinkin on ollut suosittua, 1990-luvun Internetissä kyse oli kotisivuista,
-sellaisesta itsensä esittelystä. 2000-luvulla blogit olivat se juttu. En ole
-vielä lähtenyt muihin haihatuksiin mukaan mutta ehkä joku päivä rakennan oman
-wikin, sisällöntuotantojärjestelmän tai mitä se onkaan. Ja pilveäkin pitäisi
-joskus testata, se on 2000-luvun puppusana.
+Some of the pages are also available in English_. The rest of this page is in
+Finnish.
 
-Kohta rakennan taas hakemistoa ja redirectejä että tämä sivusto toimisi, 
-odottakaas.
+Ylläpidän tätä sivustoa lähinnä jotta pystyn ylläpitämään taitojani palvelimen
+ylläpidossa ja veppisivustotekniikoissa. Näiden sivujen lähdekoodit ovat
+github-sivuillani_. Tämä ei ole mikään erikoishieno sisällönhallintajärjestelmä,
+vaan läjä erilaisia tekstiformaatteja ja autotools-skriptejä. Sisältöjutut
+vaihtelevat vanhoista ja uusista plokiposteista muistiinpantuihin skripteihin ja
+ohjelmointikikkoihin, projektien kotisivuihin ja veppidemoihin ja kaikkeen mitä
+nyt keksin kirjoittaa ylös talteen (joka ei sovi muuhun sivustoon, kuten 
+facebookiin, twitteriin tai toiseen plokiin).
+
+Sivujen rakenne perustuu osin hierarkioihin, tägeihin tai sensellaisiin
+asiasanoihin (nämä on vielä työn alla vähän):
+
+- asetukset
+- skriptit
+- vanhat
+- plokit_
+- yhteystiedot
+- lingvistiikka
+- jne.
+
+.. _English: index.html
+.. _github-sivuillani: http://github.com/flammie/flammie.dyndns.org
+.. _asetukset: asetuksia/
+.. _skriptit: skriptejä/
+.. _vanhat: vanhaa/
+.. _plokit: plokeja/
+.. _yhteystiedot: yhteystietoja.html
+.. _lingvistiikka: lingvistiikkaa/

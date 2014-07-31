@@ -1,0 +1,62 @@
+# News part of the site 2000 - 2004
+
+These were written in rather old times, they weren't blog posts back then since
+there weren't blogs at the time. It's rather embarrassing stuff but good to
+remember where it all started. All those things were interesting and cool
+back in the days.
+
+## Transforming site in to _XHTML 3_ starts Thu Apr 01 00:00:00 EEST 2004 @000 /Internet Time/
+
+Just as I got my site done in some standardish way I decided to update it to
+conform better with demands of future technologies. As of today, whole site
+will be converted in to plain _xhtml 3_ and nothing else. If some broken
+browserlike operating system component doesn't understand _XHTML 3_ then it is
+not my problem and you should update your browser anyways.
+
+## Article on Pretty Printers added Wed Mar 31 16:05:02 EEST 2004 @586 /Internet Time/
+
+After battling long and hard to get one petty scientific article to accepted on
+a course where the article will not even be published, I am able to present it
+in here as well. It's currently in Finnish only, but if anyone's interested in
+Pretty Printers then I might translate it, though it won't be worth it.
+
+## Feedback form added Tue Mar 09 21:37:25 EET 2004 @859 /Internet Time/
+
+It seems that there are now some small but constant number of actual visitors
+on my site, so I added a basic feedback form to encourage people to tell their
+opinions. I sincerely thank every soul appreciating my work by giving any kind
+of feedback!
+
+## Gnome's Finnish translator status acquired Mon Feb 16 00:23:24 EET 2004 @974 /Internet Time/
+
+I hung around in #gnome-fi and ranted about my pan translation so I got the
+honored rank of Gnome Translator including a Honored gnome-fi.org email
+address! The translation projects with diary-like descriptions of intriguing
+translation process are soon to appear in midst of language section of my site,
+be ready.
+
+## Static style cludge in progress Mon Feb 16 00:31:44 EET 2004 @980 /Internet Time/
+
+I've found it rather annoying that none of the current graphical browsers
+remember the selected style sheets for the sites so I've developed some little
+server-side script for selecting style sheet preference, you can now append any
+page with string ?style=smth where smth is name of style sheet and it'll be
+applied as default stylesheet and remembered in a cookie if allowed.
+
+## Rewriting finished Sun Feb 01 12:35:48 EET 2004 @483 /Internet Time/
+
+Rewriting and testing phase of new structures of this site has finally ended.
+No serious problems can be seen in any of current browsers nor validators. The
+realized site is based upon sexy technologies called XHTML 1.1, XML 1.0, CSS
+2.1, PNG and RSS 1.0! Anyways, now I'm back writing content again :\
+
+## Site rewriting in progress Mon Jan 19 05:57:28 EET 2004 @206 /Internet Time/
+
+I am currently rewriting the site in order to gain a bit more accessible and
+bit more logical design. And to ease the upkeep of course. I recently
+understood how similar my rants and articles were to a typical blog so I
+decided to move old index page to a separate page titled _About_, and replace it
+with this news page, which also exists in rss format ('cos everyone else does
+it too ;).
+
+
