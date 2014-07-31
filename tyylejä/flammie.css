@@ -1,0 +1,36 @@
+/** @file flammie.css
+ *  @brief simple basic styling for simple pages
+ *  @revision $Id: tapirine.css,v 1.5 2013-01-22 08:04:27+02 tapirine Exp $
+ */
+
+/* common settings */
+body {
+    background-color: black;
+    color: white;
+    background-image: url(/kuvia/blackorchid.png);
+    font-family: FreeSans, "Luxi Sans", "DejaVu Sans", sans-serif;
+}
+
+/* block content should be reasonably thin and justified */
+p, li {
+    max-width: 42em;
+    text-align: justify;
+}
+
+/* uneven headings should be bold */
+h1, h3, h5 {
+    font-weight: bold;
+    font-family: FreeSerif, "Luxi Serif", "DejaVu Serif", serif;
+}
+
+/* even headings should be italic */
+h2, h4, h6 {
+    font-style: italic;
+    font-family: FreeSerif, "Luxi Serif", "DejaVu Serif", serif;
+}
+
+/* metadata section should be smallprint */
+.metadata {
+    font-size: smaller;
+}
+
