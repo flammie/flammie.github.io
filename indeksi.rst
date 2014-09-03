@@ -17,12 +17,13 @@ facebookiin, twitteriin tai toiseen plokiin).
 Sivujen rakenne perustuu osin hierarkioihin, tägeihin tai sensellaisiin
 asiasanoihin (nämä on vielä työn alla vähän):
 
-- asetukset
-- skriptit
+- asetukset_
+- skriptit_
 - vanhat
 - plokit_
-- yhteystiedot
+- tietoja minusta_
 - lingvistiikka
+- kuvat_
 - jne.
 
 .. _English: index.html
@@ -31,5 +32,7 @@ asiasanoihin (nämä on vielä työn alla vähän):
 .. _skriptit: skriptejä/
 .. _vanhat: vanhaa/
 .. _plokit: plokeja/
+.. _kuvat: kuvia/
+.. _minusta: tietoja/flammie.html
 .. _yhteystiedot: yhteystietoja.html
 .. _lingvistiikka: lingvistiikkaa/
