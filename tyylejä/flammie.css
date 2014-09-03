@@ -31,6 +31,8 @@ h2, h4, h6 {
 
 /* metadata section should be smallprint */
 .metadata {
-    font-size: smaller;
+    background-color: black;
+    color: lightgray;
+    font-size: xx-small;
 }
 
