@@ -17,6 +17,7 @@
 HTML_TARGETS=indeksi.html index.html \
 			 plokeja/indeksi.html \
 			 asetuksia/python-2-distutils-cfg.html \
+			 asetuksia/i3-brightness-audio.html \
 			 plokeja/2004-04-01-old-news.html \
 			 plokeja/2005-03-30-first-blog-posts.html \
 			 plokeja/2005-08-12-kaksikieliset.html \
@@ -35,7 +36,7 @@ doc_DATA=$(HTML_TARGETS)
 	egrep '^# ' -m 1 $< | sed -e 's/^# //' > $@.title
 	sed -e "s/@TITLE@/`cat $@.title`/" templaatteja/markdown-head.html.en \
 		> $@.html.head
-	LC_ALL=C stat $@ | fgrep Change | sed -e 's/^Change: //' > $@.mtime
+	LC_ALL=C stat $< | fgrep Change | sed -e 's/^Change: //' > $@.mtime
 	sed -e "s/@MTIME@/`cat $@.mtime`/" templaatteja/markdown-foot.html.en \
 		> $@.html.foot
 	cat $@.html.head $@.body $@.html.foot > $@
@@ -46,7 +47,7 @@ doc_DATA=$(HTML_TARGETS)
 	egrep '^# ' -m 1 $< | sed -e 's/^# //' > $@.title
 	sed -e "s/@TITLE@/`cat $@.title`/" templaatteja/markdown-head.html.fi \
 		> $@.html.head
-	LC_ALL=C stat $@ | fgrep Change | sed -e 's/^Change: //' > $@.mtime
+	LC_ALL=C stat $< | fgrep Change | sed -e 's/^Change: //' > $@.mtime
 	sed -e "s/@MTIME@/`cat $@.mtime`/" templaatteja/markdown-foot.html.fi \
 		> $@.html.foot
 	cat $@.html.head $@.body $@.html.foot > $@
