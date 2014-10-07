@@ -11,10 +11,13 @@ other social sites)
 
 The web site is structured in directories, tags or such (under construction):
 
-- configurations
-- scripts
+- [configurations](asetuksia/)
+- [scripts](skriptejä/)
 - old stuff
 - [blogs](plokeja/)
 - contact
 - linguistics
+- [images](kuvia/)
 - etc.
+
+<!-- vim: set ft=markdown -->

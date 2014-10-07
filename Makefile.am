@@ -19,6 +19,11 @@ HTML_TARGETS=indeksi.html index.html \
 			 asetuksia/index.html \
 			 asetuksia/python-2-distutils-cfg.html \
 			 asetuksia/i3-brightness-audio.html \
+			 asetuksia/indeksi.html \
+			 skriptejä/indeksi.html \
+			 skriptejä/reconfigure.html \
+			 kuvia/indeksi.html \
+			 tietoja/flammie.html \
 			 plokeja/2004-04-01-old-news.html \
 			 plokeja/2005-03-30-first-blog-posts.html \
 			 plokeja/2005-08-12-kaksikieliset.html \

@@ -6,7 +6,7 @@
 /* common settings */
 body {
     background-color: black;
-    color: white;
+    color: lightgray;
     background-image: url(/kuvia/blackorchid.png);
     font-family: FreeSans, "Luxi Sans", "DejaVu Sans", sans-serif;
 }
@@ -30,7 +30,8 @@ h2, h4, h6 {
 }
 
 /* metadata section should be smallprint */
-.metadata {
-    font-size: smaller;
+#metadata {
+    color: darkgray;
+    font-size: xx-small;
 }
 
