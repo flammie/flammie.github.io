@@ -16,10 +16,11 @@
 
 HTML_TARGETS=indeksi.html index.html \
 			 plokeja/indeksi.html \
+			 asetuksia/indeksi.html \
 			 asetuksia/index.html \
 			 asetuksia/python-2-distutils-cfg.html \
 			 asetuksia/i3-brightness-audio.html \
-			 asetuksia/indeksi.html \
+			 asetuksia/xorg-natural-scroll.html \
 			 skriptejä/indeksi.html \
 			 skriptejä/reconfigure.html \
 			 kuvia/indeksi.html \
