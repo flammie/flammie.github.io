@@ -1,5 +1,12 @@
-Makefile
-Makefile.in
-*.html
+aclocal.m4
+autogen.sh
+autom4te.cache/
+config.log
+config.status
+configure
 install
 install-sh
+Makefile
+Makefile.in
+missing
+*.html
