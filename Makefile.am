@@ -20,6 +20,7 @@ HTML_TARGETS=indeksi.html index.html \
 			 asetuksia/index.html \
 			 asetuksia/python-2-distutils-cfg.html \
 			 asetuksia/i3-brightness-audio.html \
+			 asetuksia/ssh-gateway.html \
 			 asetuksia/xorg-natural-scroll.html \
 			 skriptejä/indeksi.html \
 			 skriptejä/reconfigure.html \
