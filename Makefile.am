@@ -22,7 +22,9 @@ HTML_TARGETS=indeksi.html index.html \
 			 asetuksia/i3-brightness-audio.html \
 			 asetuksia/xorg-natural-scroll.html \
 			 skriptejä/indeksi.html \
+			 skriptejä/index.html \
 			 skriptejä/reconfigure.html \
+			 skriptejä/split-text-lines.html \
 			 kuvia/indeksi.html \
 			 tietoja/flammie.html \
 			 plokeja/2004-04-01-old-news.html \
