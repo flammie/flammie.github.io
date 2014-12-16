@@ -18,6 +18,8 @@ HTML_TARGETS=indeksi.html index.html \
 			 plokeja/indeksi.html \
 			 asetuksia/indeksi.html \
 			 asetuksia/index.html \
+			 projekteja/index.html \
+			 projekteja/indeksi.html \
 			 asetuksia/python-2-distutils-cfg.html \
 			 asetuksia/i3-brightness-audio.html \
 			 asetuksia/ssh-gateway.html \
