@@ -28,13 +28,15 @@ HTML_TARGETS=indeksi.html index.html \
 			 skriptejä/index.html \
 			 skriptejä/reconfigure.html \
 			 skriptejä/split-text-lines.html \
+			 skriptejä/special-recode.html \
 			 kuvia/indeksi.html \
 			 tietoja/flammie.html \
 			 plokeja/2004-04-01-old-news.html \
 			 plokeja/2005-03-30-first-blog-posts.html \
 			 plokeja/2005-08-12-kaksikieliset.html \
 			 plokeja/2008-10-22-mussutukset.html \
-			 plokeja/2008-11-11-asepalvelus.html
+			 plokeja/2008-11-11-asepalvelus.html \
+			 häkkejä/dublin-airport-text-login.html
 
 REMOTE_DIR=flammie.dyndns.org:/var/www/flammie.dyndns.org/
 
