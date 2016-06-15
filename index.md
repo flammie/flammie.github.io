@@ -1,3 +1,8 @@
+---
+layout: default
+title: Flammie.github.io / dyndns.org
+---
+
 # Flammie.dyndns.org
 
 I maintain this server mainly to practice my skills in server stuff and web
