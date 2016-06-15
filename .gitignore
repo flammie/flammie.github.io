@@ -9,4 +9,3 @@ install-sh
 Makefile
 Makefile.in
 missing
-*.html

@@ -1,1 +1,9 @@
+title: 'Flammie'
+subtitle: 'Flammie’s home pages'
+navigation: 1
+codeurl: 'https://github.com/flammie/flammie.github.io'
+baseurl: ''
+highlighter: rouge
 markdown: kramdown
+kramdown:
+    input: GFM
