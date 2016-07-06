@@ -1,3 +1,7 @@
+---
+layout: default
+title: ssh throughputs and gateways setup
+---
 # Ssh through another ssh server
 
 This is common need for university. scientific computing cluster or probably

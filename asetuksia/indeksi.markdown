@@ -1,3 +1,7 @@
+---
+layout: finnish
+title: Asetusindeksi
+---
 # Tarpeellisia asetuksia
 
 Tälle sivulle on koottu asetustiedostoja jotka ovat osoittautuneet

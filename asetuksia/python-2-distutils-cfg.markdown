@@ -1,3 +1,7 @@
+---
+layout: default
+title: python 2 distutils and --user install
+---
 # Python 2 distutils --user install on SUSE etc.
 
 When trying to use distutils on cluster for morfessor-2.0.1:

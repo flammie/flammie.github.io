@@ -1,3 +1,7 @@
+---
+layout: default
+title: logging in to a javascript captive portal without a graphical browser
+---
 # Logging in to a captive portal of javascript without a browser
 
 It so happens that I'm at Dublin airport at the moment without a working

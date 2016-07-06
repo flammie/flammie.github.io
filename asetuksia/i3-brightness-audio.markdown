@@ -1,3 +1,8 @@
+---
+layout: default
+title: keyboard setup for i3 audio and brightness
+---
+
 # Setting up brightness and audio keys for i3
 
 I3 is a really neat and fast tiling window manager for linux. Tiling means

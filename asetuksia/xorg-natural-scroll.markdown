@@ -1,3 +1,7 @@
+---
+layout: default
+title: Natural scrolling in X without DEs
+---
 # Natural scrolling in X without Desktop Environment
 
 At the moment most laptops still have trackpads, and I'm too lazy to carry a

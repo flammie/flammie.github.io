@@ -1,3 +1,7 @@
+---
+layout: default
+title: settings index
+---
 # Settings and dotfiles
 
 This folder contains notes from times when I've spent some while setting up odd
