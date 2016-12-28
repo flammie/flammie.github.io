@@ -5,6 +5,10 @@ title: Flammie.github.io
 
 # Flammie.github.io
 
+*My main project is [omorfi](//flammie.github.io/omorfi/), maybe you are 
+ looking for that. It is in its own sub-directory since the way github
+ organises things.*
+
 These pages (on github.io) and server (on VPS) are here mainly for me to
 practice my skills. The source code of this page is on
 [my github pages repo](http://github.com/flammie/flammie.github.io).
