@@ -3,6 +3,8 @@ layout: default
 title: Flammie.github.io
 ---
 
+[[suomeksi](index.html) | **In English**]
+
 # Flammie.github.io
 
 *My main project is [omorfi](//flammie.github.io/omorfi/), maybe you are 
