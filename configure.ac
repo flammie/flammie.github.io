@@ -22,6 +22,7 @@ AM_SILENT_RULES([yes])
 AC_PATH_PROGS([RST2HTML], [rst2html.py rst2html], [false])
 AC_PATH_PROG([MARKDOWN], [markdown_py], [false])
 AC_PATH_PROG([RSYNC], [rsync], [false])
+AC_PATH_PROG([JEKYLL], [jekyll], [false])
 AC_CONFIG_FILES([Makefile])
 AC_OUTPUT
 

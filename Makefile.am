@@ -1,6 +1,6 @@
 ## Process this file with automake to produce Makefile.in
 
-## Copyright (C) 2014 Flammie
+## Copyright (C) 2017 Flammie
 
 ## This program is free software: you can redistribute it and/or modify
 ## it under the terms of the GNU General Public License as published by
@@ -39,35 +39,18 @@ HTML_TARGETS=indeksi.html index.html \
 			 häkkejä/dublin-airport-text-login.html
 
 REMOTE_DIR=flammie.dyndns.org:/var/www/flammie.dyndns.org/
+LOCAL_DIR=/var/www/html/
 
-doc_DATA=$(HTML_TARGETS)
+.DUMMY: build upload deploy
 
-%.html: %.rst
-	$(RST2HTML) $< $@
+build:
+	$(JEKYLL) build
 
-%.html: %.markdown.en
-	$(MARKDOWN)  < $< > $@.body
-	egrep '^# ' -m 1 $< | sed -e 's/^# //' > $@.title
-	sed -e "s/@TITLE@/`cat $@.title`/" templaatteja/markdown-head.html.en \
-		> $@.html.head
-	LC_ALL=C stat $< | fgrep Change | sed -e 's/^Change: //' > $@.mtime
-	sed -e "s/@MTIME@/`cat $@.mtime`/" templaatteja/markdown-foot.html.en \
-		> $@.html.foot
-	cat $@.html.head $@.body $@.html.foot > $@
-	rm $@.body $@.title $@.mtime $@.html.foot $@.html.head
+_site: build
 
-%.html: %.markdown.fi
-	$(MARKDOWN)  < $< > $@.body
-	egrep '^# ' -m 1 $< | sed -e 's/^# //' > $@.title
-	sed -e "s/@TITLE@/`cat $@.title`/" templaatteja/markdown-head.html.fi \
-		> $@.html.head
-	LC_ALL=C stat $< | fgrep Change | sed -e 's/^Change: //' > $@.mtime
-	sed -e "s/@MTIME@/`cat $@.mtime`/" templaatteja/markdown-foot.html.fi \
-		> $@.html.foot
-	cat $@.html.head $@.body $@.html.foot > $@
-	rm $@.body $@.title $@.mtime $@.html.foot $@.html.head
+upload: _site
+	$(RSYNC) --exclude-from=.rsyncignore -av _site/* $(REMOTE_DIR) 
 
-upload: $(HTML_TARGETS)
-	$(RSYNC) --exclude-from=.rsyncignore -av ./ $(REMOTE_DIR) 
-
+deploy: _site
+	rsync -avz _site/* $(LOCAL_DIR)
 
