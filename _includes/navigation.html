@@ -1,5 +1,52 @@
 <ul class="nav nav-list">
     <li><a href="{{ site.baseurl }}/">Home</a></li>
+    <li class="nav-header"><a href="{{ site.baseurl }}/asetuksia/">
+            configurations
+    </a></li>
+    <li><a href="{{ site.baseurl }}/asetuksia/i3-brightness-audio.html">
+                    i3 brightness and audio settings without DE
+    </a></li>
+    <li><a href="{{ site.baseurl }}/asetuksia/python-2-distutils-cfg.html">
+                    python2 distutils home installs etc.
+    </a></li>
+    <li><a href="{{ site.baseurl }}/asetuksia/ssh-gateway.html">
+                SSH through gateways
+    </a></li>
+    <li><a href="{{ site.baseurl }}/asetuksia/xorg-natural-scroll.html">
+                    X.org invert mouse without DE
+    </a></li>
+    <li class="nav-header"><a href="{{ site.baseurl }}/projekteja/">
+            projects
+    </a></li>
+    <li class="nav-header"><a href="{{ site.baseurl }}/häkkejä/">hacks</a></li>
+    <li><a href="{{ site.baseurl }}/häkkejä/dublin-airport-text-login.html">
+            Login to captive portal with lynx (Dublin Airport 2015)
+    </a></li>
+    <li class="nav-header"><a href="{{ site.baseurl }}/kuvia/">images</a></li>
+    <li class="nav-header"><a href="{{ site.baseurl }}/plokeja/">blogs</a></li>
+    <li><a href="{{ site.baseurl }}/kuvia/2004-04-01-old-news.html">
+            Old blog #1
+    </a></li>
+    <li><a href="{{ site.baseurl }}/kuvia/2005-03-30-first-blog-posts.html">
+            Old blog #2
+    </a></li>
+    <li><a href="{{ site.baseurl }}/kuvia/2-kaksikieliset.html">
+            Old blog #3
+    </a></li>
+    <li><a href="{{ site.baseurl }}/kuvia/2-mussutukset.markdown">
+            Old blog #4
+    </a></li>
+    <li><a href="{{ site.baseurl }}/kuvia/2008-11-11-asepalvelus.markdown">
+            Old blog #5
+    </a></li>
+    <li class="nav-header"><a href="{{ site.baseurl }}/skriptejä/">scripts</a></li>
+    <li><a href="{{ site.baseurl }}/skriptejä/reconfigure.html">
+            reconfigure
+    </a></li>
+    <li><a href="{{ site.baseurl }}/skriptejä/split-text-lines.html">
+    <li class="nav-header"><a href="{{ site.baseurl }}/tietoja/">informations</a></li>
+    <li><a href="{{ site.baseurl }}/tietoja/flammie.html">about me (Flammie)</a></li>
+
     {% for section in site.sections %}
         {% assign attr = section[0] %}
         {% assign label = section[1] %}
@@ -13,4 +60,5 @@
     {% endfor %}
 <!-- List additional links. It is recommended to add a divider
     e.g. <li class="divider"></li> first to break up the content. -->
+    <li class="divider"></li>
 </ul>

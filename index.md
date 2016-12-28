@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Flammie.github.io / dyndns.org
+title: Flammie.github.io
 ---
 
-# Flammie.github.io / flammie.dyndns.org
+# Flammie.github.io
 
-These pages (on github.io) and server (dyndns.org) are here mainly for me to
+These pages (on github.io) and server (on VPS) are here mainly for me to
 practice my skills. The source code of this page is on
 [my github pages repo](http://github.com/flammie/flammie.github.io).
 The web-pages are worked in modern github pages environment, plus simple
@@ -16,15 +16,13 @@ demos and all sorts of rants on things and stuff (the kind that isn't well
 suited for facebook, twitter or other social sites, some actually pre-dating
 facey book and even myspace).
 
-The web site is structured in directories, tags or such (under construction):
+The categories of this site are horribly arbitrary
 
-- [configurations](asetuksia/)
-- [scripts](skriptejä/)
-- old stuff
-- [blogs](plokeja/)
-- contact
-- linguistics
-- [images](kuvia/)
+- [configurations](asetuksia/index.html)
+- [scripts](skriptejä/index.html)
+- [blogs](plokeja/indeksi.html)
+- [projects](projekteja/index.html)
+- [images](kuvia/index.html)
 - etc.
 
 <!-- vim: set ft=markdown -->
