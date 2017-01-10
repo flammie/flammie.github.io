@@ -10,12 +10,12 @@ nowadays facebook is more common.
 My nick name is Flammie and it is preferred over the birth name unless
 otherwise is required.
 
-You can contact me by [email](mailto:flammie@iki.fi), 
+You can contact me by [email](mailto:flammie@iki.fi),
 [IRC](irc:Freenode), or using the social media as necessary
 
 ## Profiles elsewhere
 
-These are the home pages now:
+These are the home pages of the 2010's internet:
 
 * [Flammie in Facebook](https://facebook.com/ffflammie)
 * [Flammie in Google+](https://plus.google.com/+TommiPirinen)
@@ -24,10 +24,9 @@ These are the home pages now:
 * [Flammie on Google Scholar](http://scholar.google.fi/citations?user=XNOLAagAAAAJ&hl=fi)
 * [Flammie in PSN](http://eu.playstation.com/psn/profile/ffflammie/)
     * [Flammie in PSN (IE)](http://eu.playstation.com/psn/profile/ieFlamm/)
+    * [Flammie in PSN (DE)](http://eu.playstation.com/psn/profile/flammde/)
 * [Flammie in IRC-galleria](http://irc-galleria.net/user/Flammie)
-* [Flammie in xhamster (is NSFW, X-rated)](http://xhamster.com/user/Flammie)
 * [Flammie in discogs](http://www.discogs.com/user/Flammie)
-* [Flammie on OKCupid](https://www.okcupid.com/profile/fffflammie)
 
 
 <!-- vim: set ft=markdown: -->
