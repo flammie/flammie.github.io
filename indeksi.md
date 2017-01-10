@@ -7,24 +7,11 @@ title: Flammie.github.io
 
 # Flammie.github.io
 
-*Flammien pääprojekti, [omorfi](//flammie.github.io/omorfi/), on omalla
- sivustollaan.*
+Seuraavilla github-projekteillani on gh-pages-haaroja:
 
-Nämä verkkosivut (.github.io) ja palvelin-sivut on täällä lähinnä testailuun
-ja ylläpitoon. Sivujen lähdekoodia löytyy 
-[githubista](http://github.com/flammie/flammie.github.io).
-Nämä on yksinkertaiset github pages -sivut, en ole edes asettanut mitään
-blogausjuttuja tai skriptejä. Sisällön korvikkeena on mm. jotain sosiaalista
-internetiä vanhempia sivustojani, ennen blogspottia ja stackexchangea kun
-kirjoitettiin näitä juttuja itse käsin.
+- [omorfi](omorfi/)
 
-Jotain linkkejä jotka johtaa linkkeihin:
-
-- [configurations](asetuksia/index.html)
-- [scripts](skriptejä/index.html)
-- [blogs](plokeja/indeksi.html)
-- [projects](projekteja/index.html)
-- [images](kuvia/index.html)
-- etc.
+Ikivanhojen [Flammie.dyndns.org-sivujem arkistot](archives) löytyy vielä täältä,
+osa niistä on pelastattu archive.orgista ja osa on muuten vaan säilynyt.
 
 <!-- vim: set ft=markdown -->
