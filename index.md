@@ -3,7 +3,7 @@ layout: default
 title: Flammie.github.io
 ---
 
-[[suomeksi](indeksi.html) | **In English**]
+* [suomeksi](indeksi.html) | **In English**
 
 # Flammie.github.io
 
@@ -14,16 +14,17 @@ For the following github projects I also have gh-pages branches:
 
 * [Open morphology of Finnish](omorfi/)
 * [Research papers](purplemonkeydishwasher/)
+* [Apertium Finnish dictionary (derived from omorfi)](apertium-fin/)
+* [Apertium Finnish–German resources](apertium-fin-deu/)
 
 Maybe also check [flammie.dyndns.org archives](archive/index.html), some of the
 pages I written in the early years of the internet, some found from the internet
-archive some actually just saved over the years.
+archive some actually just saved over the years. This is like my old blogs and
+"home pages".
 
 ## Flammie
 
-* There’s [an old outdated profile](archive/tietoja/flammie.html) in the archives
-  section of this site.
-* Academic, professional details are in [my cv]().
+* Academic, professional details are in [my cv](purplemonkeydishwasher/cv.html).
 
 ### Contact information
 
@@ -35,10 +36,10 @@ instant messengers and Google+ perhaps are rather extinct.
 | *E-Mail* | flammie@iki.fi (personal email / no work stuff) |
 | IRC | [Flammie on Freenode](irc://Freenode/Flammie?isnick) |
 | | [Web IRC on Freenode](https://webchat.freenode.net)
-| AIM | Flammie in AOL instant Messenger|
+| <del>AIM</del> | <del>Flammie</del> <ins>AIM dead</ins>  |
 | ICQ | UIN 27204357 |
 | MSN | RingchaserFlammie@msn.com |
-| Mail | Eichholz ... |
+| Mail | Eichholz ??? |
 | | D-20459 Hamburg |
 | | Deutschland |
 | Linkedin (Professional) | tommi-pirinen |
