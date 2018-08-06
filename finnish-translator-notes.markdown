@@ -64,6 +64,16 @@ Suomeksi tämä on syytä kirjoittaa:
 
 Eikä
 
-> ~̃~Oletko aivan varma että haluat varmasti lopettaa?~~
+> ~~Oletko aivan varma että haluat varmasti lopettaa?~~
+
+## X of Y
+
+Siis koska ei vielä vuonna 2018:kaan softakäännöksissä voi taivuttaa sanoja,
+ei voi kirjoittaa 1 juttu 3:sta tai 2 juttua 4:stä, oikeastaan ainoa kelpo
+suomennos on vinoviiva:
+
+> _X/Y_
+
+**:-(**
 
 
