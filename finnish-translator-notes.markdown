@@ -41,3 +41,29 @@ muunlainen sarja asetuksia. Esim. vaihda tai vaihtele on melko ok, mutta
 silloinkin joutuu usein sanailemaan uudestaan, vaikka "toggle power" voi
 olla "vaihda virta päälle/pois" (tai kytke) niin "toggle display of
 HUD" pitää ainakin sanoa että "vaihtele hudin näkyvyyttä".
+
+### Run?
+
+Englanninkielistä kysymyksistä jätetään usein kysymys pois, eli lyhyesti vaikkapa
+"Run the program?" eikä "(Do/should we) run the program?" tms. Suomeksi tämä ei
+oikein toimi, vaan kannattaa aina lisätä kysmyspartikkeli -kO.
+
+> _Suoritetaanko?_
+
+Ei:
+
+> ~~Suorita?~~
+
+## Really really?
+
+Englanninkielisissä teksteissä on usein turhaa löpinää tai tuttavallisuutta,
+tyypillisin esimerkki tästä on "Are you really sure that you really want to quit?"
+Suomeksi tämä on syytä kirjoittaa:
+
+> _Lopetetaanko?_
+
+Eikä
+
+> ~̃~Oletko aivan varma että haluat varmasti lopettaa?~~
+
+
