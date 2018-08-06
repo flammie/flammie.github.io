@@ -22,6 +22,11 @@ pages I written in the early years of the internet, some found from the internet
 archive some actually just saved over the years. This is like my old blogs and
 "home pages".
 
+Some more pages:
+
+* [Finnish software translation notes](finnish-translator-notes.html)
+
+
 ## Flammie
 
 * Academic, professional details are in [my cv](purplemonkeydishwasher/cv.html).

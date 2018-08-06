@@ -17,6 +17,10 @@ Seuraavilla github-projekteillani on gh-pages-haaroja:
 Ikivanhojen [Flammie.dyndns.org-sivujen arkistot](archives/) löytyy vielä
 täältä, osa niistä on pelastattu archive.orgista ja osa on muuten vaan säilynyt.
 
+Jotain sivuja taas:
+
+* [Softasuomennoshuomioita](finnish-translator-notes.html)
+
 [Englanninkielisillä sivuilla](index.html) on hieman enemmän sisältöä.
 
 <!-- vim: set ft=markdown -->
