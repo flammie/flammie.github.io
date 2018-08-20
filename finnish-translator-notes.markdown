@@ -23,7 +23,7 @@ niitä tottuneesti joten niitä tulee aina vastaan.
 ### Successfully
 
 Ohjelmoijilla on usein tapana kirjoittaa että jokin tehtiin onnistuneesti:
-"File was read succesfully", "The download ended successfully" ja jne. 
+"File was read succesfully", "The download ended successfully" ja jne.
 Normaalisti kun sanotaan "tiedosto luettu" niin onnistuminen on jo melko
 selvää eikä sitä tarvitse erikseen sanoa:
 
@@ -54,7 +54,7 @@ Ei:
 
 > ~~Suorita?~~
 
-## Really really?
+### Really really?
 
 Englanninkielisissä teksteissä on usein turhaa löpinää tai tuttavallisuutta,
 tyypillisin esimerkki tästä on "Are you really sure that you really want to quit?"
@@ -66,7 +66,7 @@ Eikä
 
 > ~~Oletko aivan varma että haluat varmasti lopettaa?~~
 
-## X of Y
+### X of Y
 
 Siis koska ei vielä vuonna 2018:kaan softakäännöksissä voi taivuttaa sanoja,
 ei voi kirjoittaa 1 juttu 3:sta tai 2 juttua 4:stä, oikeastaan ainoa kelpo
@@ -76,4 +76,27 @@ suomennos on vinoviiva:
 
 **:-(**
 
+
+## Suomenkieliset rakenteet
+
+### Tallentaessa / tallennettaessa
+
+On varsin yleistä ohjelmoijapuhetta sanoa "error (while) doing stuff".
+Ohjelmoijana tulee helpostui kirjoittaneeksi näin kun yrittää kuvailla jotain
+epätodennäköistä virhettä jonka ei suoraan voi sanoa johtuneen edeltävästä
+toiminnosta mutta kuitenkin pitää sanoa jotain. Vaikka ehkä suositeltavinta on
+välttää ylenpalttisen varovaista sanailua ja sanoa että "error while trying to
+save" on vain "tallennusvirhe" t. "kirjoitusvirhe", niin jos koko viestin idean
+yrittää suomeksi sanoa pitää useimmiten käyttää e-infinitiivin passiivimuoto
+
+> _virhe tapahtui tallennettaessa tiedostoa"_,
+
+joskus harvoin
+
+> ~~virhe tallentaessa tiedostoa~~
+
+voisi olla oikein, sen milloin näin on voi havaita muotoilemalla lausetta
+uusiksi "virhe kun tallennettiin ~ tallentaa tiedostoa". Kaiketi on niin että
+vain silloin kun aktiivimuoto toimii 0-persoonarakenteena voi myös aktiivin
+e-infinitiiviä käyttää.
 
