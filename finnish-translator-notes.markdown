@@ -79,6 +79,17 @@ suomennos on vinoviiva:
 
 ## Suomenkieliset rakenteet
 
+## Ei voi, voida, voitu...
+
+Virheviestien kanssa on yleensä hyvä pitää mielessä mitä tarkalleen sanotaan,
+eli onko ongelma väliaikainen tai pysyvä, kannattaako käyttäjän yrittää
+uudelleen. Yleensä englanniksi on erikseen "cannot write (into read-only memory"
+"could not write (disk is full?)", mutta monet ohjelmien tekijät eivät erottele
+näitä hyvin joten niitä on myös syytä pitää mielessä itse. Siis
+"Kirjoitussuojatulle levylle ei voi kirjoittaa" yksinkertaisesti koskaan mutta
+"levylle ei voitu kirjoittaa" koska tila loppui kesken; viestin koko sisältö
+pitää vain ajatella kun sitä kääntää.
+
 ### Tallentaessa / tallennettaessa
 
 On varsin yleistä ohjelmoijapuhetta sanoa "error (while) doing stuff".
