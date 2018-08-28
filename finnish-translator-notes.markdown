@@ -76,6 +76,11 @@ suomennos on vinoviiva:
 
 **:-(**
 
+### Append (prepend)
+
+Appendille ei välttämättä ole näpäkkää suoraa käännöstä, jos halutaan korostaa
+että lisätään esim. listan tai tiedoston loppuun (alkuun). Usein kuitenkin vain
+_lisää_.
 
 ## Suomenkieliset rakenteet
 
