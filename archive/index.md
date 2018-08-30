@@ -7,7 +7,9 @@ title: Flammie.dyndns.org archives
 
 This site was running from early days of the internet, right after my ISP and
 geocities sites up until 2016 or so. Now it's converted to gh-pages and archived
-like so.
+like so. You can also just check [flammie.dyndns.org on
+archive.org](https://web.archive.org/web/20050401000000*/flammie.dyndns.org),
+pretty cool stuff, eh?
 
 - [configurations](asetuksia/index.html)
     - [i3 brightness and audio settings without DE](asetuksia/i3-brightness-audio.html)
@@ -29,4 +31,4 @@ like so.
 - [images](kuvia/index.html)
 - [informations](tietoja/)
     - [about me (Flammie)](tietoja/flammie.html)
-
+- [games](games/index.html)
