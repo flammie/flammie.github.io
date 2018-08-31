@@ -14,8 +14,13 @@ For the following github projects I also have gh-pages branches:
 
 * [Open morphology of Finnish](omorfi/)
 * [Research papers](purplemonkeydishwasher/)
-* [Apertium Finnish dictionary (derived from omorfi)](apertium-fin/)
-* [Apertium Finnish–German resources](apertium-fin-deu/)
+
+The [Apertium](//apertium.github.io)-based projects are now under apertium
+github pages:
+
+* [Apertium Finnish dictionary (derived from omorfi)](//apertium.github.io/apertium-fin/)
+* [Apertium Finnish–English resources](//apertium.github.io/apertium-fin-deu/)
+* [Apertium Finnish–German resources](//apertium.github.io/apertium-fin-eng/)
 
 Maybe also check [flammie.dyndns.org archives](archive/index.html), some of the
 pages I written in the early years of the internet, some found from the internet
@@ -41,14 +46,11 @@ instant messengers and Google+ perhaps are rather extinct.
 | *E-Mail* | flammie@iki.fi (personal email / no work stuff) |
 | IRC | [Flammie on Freenode](irc://Freenode/Flammie?isnick) |
 | | [Web IRC on Freenode](https://webchat.freenode.net)
-| <del>AIM</del> | <del>Flammie</del> <ins>AIM dead</ins>  |
-| ICQ | UIN 27204357 |
-| MSN | RingchaserFlammie@msn.com |
-| Mail | Eichholz ??? |
+| Mail | ... |
 | | D-20459 Hamburg |
 | | Deutschland |
 | Linkedin (Professional) | tommi-pirinen |
-| Google+ (Professional / Personal; allows different circles)  | ffflammie |
+| Google (~~plus~~) | ffflammie |
 | Facebook (Personal; mostly mundane ranting) | ffflammie |
 | Vkontakte | ffflammie |
 | Telephone | none |
