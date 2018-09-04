@@ -7,3 +7,5 @@ highlighter: rouge
 markdown: kramdown
 kramdown:
     input: GFM
+
+theme: jekyll-theme-midnight
