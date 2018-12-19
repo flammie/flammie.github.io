@@ -18,15 +18,6 @@ You can contact me by [email](mailto:flammie@iki.fi),
 These are the home pages of the 2010's internet:
 
 * [Flammie in Facebook](https://facebook.com/ffflammie)
-* [Flammie in Google+](https://plus.google.com/+TommiPirinen)
-* [Flammie in LinkedIn](https://www.linkedin.com/profile/view?id=21424628)
-* [Flammie at the University](http://www.computing.dcu.ie/~tpirinen/)
-* [Flammie on Google Scholar](http://scholar.google.fi/citations?user=XNOLAagAAAAJ&hl=fi)
-* [Flammie in PSN](http://eu.playstation.com/psn/profile/ffflammie/)
-    * [Flammie in PSN (IE)](http://eu.playstation.com/psn/profile/ieFlamm/)
-    * [Flammie in PSN (DE)](http://eu.playstation.com/psn/profile/flammde/)
-* [Flammie in IRC-galleria](http://irc-galleria.net/user/Flammie)
-* [Flammie in discogs](http://www.discogs.com/user/Flammie)
 
 
 <!-- vim: set ft=markdown: -->
