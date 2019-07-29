@@ -35,8 +35,13 @@ Some more pages:
 ## Flammie
 
 * Academic, professional details are in [my cv](purplemonkeydishwasher/cv.html).
+** Cite as *Tommi A Pirinen* [ORCID: 0000-0003-1207-5395](https://orcid.org/0000-0003-1207-5395)
+* Free/Libre Open Source Software enthusiast
+** Cite as *Flammie* [github: flammie](https://github.com/flammie)
+* Feel free to mix and match my names and nicks but I do respond to Flammie more likely than Tommi in spoken communication due to the simple fact that the latter is like the most common name in Finland and I learnt to ignore it quite early on.
+* Native Finnish pronunciations are ([IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet))  [flamːie] and [tomːi] but can anglicise freely, e.g. [fleɪmɪ] and [tʰɒmi] are perfectly acceptable. I'm afraid the surname is not easily understandable in foreign accent, if you need it in some occasion try [pirinen] (yeah Finnish orthography is relatively modern and phonemic, and matches the IPA transcription quite well)
 
-### Contact information
+### Contact information / social media
 
 When contacting, I do prefer methods that are earlier in below table, e.g.
 E-mail rather than telephone. Some of the protocols are maybe not used anymore,
@@ -45,14 +50,15 @@ instant messengers and Google+ perhaps are rather extinct.
 | *Contact* | *Address (link)* |
 | *E-Mail* | flammie@iki.fi (personal email / no work stuff) |
 | IRC | [Flammie on Freenode](irc://Freenode/Flammie?isnick) |
-| | [Web IRC on Freenode](https://webchat.freenode.net)
-| Mail | ... |
+| | [Web IRC on Freenode](https://webchat.freenode.net) |
+| Twitter | [ffFlammie](https://twitter.com/ffFlammie) |
+| Mail | ask for street address |
 | | D-20459 Hamburg |
 | | Deutschland |
-| Linkedin (Professional) | tommi-pirinen |
+| Linkedin (Professional) | [tommi-pirinen](https://www.linkedin.com/in/tommi-pirinen-6182127/) |
 | Google (~~plus~~) | ffflammie |
-| Facebook (Personal; mostly mundane ranting) | ffflammie |
-| Vkontakte | ffflammie |
+| Facebook (Personal; mostly mundane ranting) | [ffflammie](https://www.facebook.com/ffflammie) |
+| Vkontakte | [ffflammie](https://vk.com/ffflammie) |
 | Telephone | none |
 
 ### Calendar
