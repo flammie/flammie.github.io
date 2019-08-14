@@ -1,8 +1,3 @@
----
-layout: default
-title: Flammie.github.io
----
-
 * [suomeksi](indeksi.html) | **In English**
 
 # Flammie.github.io
@@ -13,7 +8,8 @@ github](https://github.com/flammie).
 For the following github projects I also have gh-pages branches:
 
 * [Open morphology of Finnish](omorfi/)
-* [Research papers](purplemonkeydishwasher/)
+* [Research papers](purplemonkeydishwasher/) (academic papers’ tex files, bib files and a CV / publication list)
+* [Flammie’s Dotfiles](dotfiles/) (it is, the configuration files)
 
 The [Apertium](//apertium.github.io)-based projects are now under apertium
 github pages:
