@@ -1,5 +1,5 @@
-# Flammie.dyndns.org text format contents and scripts
+# Flammie's github pages
 
-This repository / tarball contains the texts and scripts I use to manage
-website on flammie.dyndns.org. It's based on simple text formats and some
-make, autotools magic, nothing fancy. Static web pages with mostly text.
+This repository is for github pages of Flammie A Pirinen. See https://flammie.github.io
+
+Ages ago the same version control system used to control a non-CMS of http://flammie.dyndns.org, there is an archive of that content somewhere around here as well.
