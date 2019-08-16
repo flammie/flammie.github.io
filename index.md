@@ -63,7 +63,7 @@ I've been trying to organize my time with following google calendar (note that
 it contains both calendar markings from my phone (red?) as well as all Facebook
 invites (green?), the green ones are not necessarily accurate)
 
-<iframe src="https://www.google.com/calendar/embed?title=Main%20google%20calendar%20and%20Facebook%20invites&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=ffflammie%40gmail.com&amp;color=%23691426&amp;src=qgt5sb2s9v7sirfcu5prf86h3q264o6g%40import.calendar.google.com&amp;color=%232F6309&amp;ctz=Europe%2FBerlin" style=" border:solid 1px #777 " width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FBerlin&amp;src=ZmZmbGFtbWllQGdtYWlsLmNvbQ&amp;src=ZGUuZ2VybWFuI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;src=ZTlkY2xhdmtjZWZkMmVvOGM1dTNpYnAzamd1YTFlYWpAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=ZmkuZ2VybWFuI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;src=ZmkuZmlubmlzaCNob2xpZGF5QGdyb3VwLnYuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=ZmlubmlzaF9fZmlAaG9saWRheS5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23F09300&amp;color=%230B8043&amp;color=%23795548&amp;color=%237986CB&amp;color=%230B8043&amp;color=%237986CB&amp;showTitle=1&amp;showTabs=0&amp;showPrint=0&amp;showCalendars=0&amp;mode=MONTH" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 <!-- vim: set ft=markdown -->
