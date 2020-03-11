@@ -47,3 +47,21 @@ authors of the papers.
 > a very noisy 40.6 million-word (English token count) Nepali-English corpus and
 > a 59.6 million-word Sinhala-English corpus
 
+## WMT shared task for very low resources:
+
+* *Found at*: http://www.statmt.org/wmt20/unsup_and_very_low_res/
+
+> We now propose a third edition on UMT, which aims at a more realistic
+> scenario, German to Upper Sorbian (and Upper Sorbian to German) translation.
+> Upper Sorbian is a minority language of Germany that is in the Slavic language
+> family (e.g., related to Lower Sorbian, Czech and Polish), and we provide here
+> most of the digital data that is available, as far as we know.
+
+> We allow the use of all German and Upper Sorbian data released for WMT,
+> including the 60000 sentence parallel German/Upper Sorbian training corpus.
+> Other WMT 2020 data for other languages may be used. Upper Sorbian is a Slavic
+> language which is related to Czech, so the German/Czech parallel data below
+> may be of particular interest for building multilingual systems. Thank you to
+> the Opus project for the German/Czech parallel data.
+
+++
