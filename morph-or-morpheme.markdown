@@ -1,4 +1,4 @@
-# Flammie’s morphs and morphemes
+# Flammie on morphs and morphemes
 
 One of my pet peeves in (computational) linguistics is the sloppiness in use of
 terms morph and morpheme. For other subfields of linguistics it seems very easy
