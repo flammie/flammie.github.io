@@ -1,2 +1,0 @@
-User-Agent: *
-Disallow: /hackerblock/ /MSADC/ /PBServer/ /Rpc/ /_mem_bin/ /vti_bin/ /c/ /d/ /e/ /f/ /g/ /h/ /adsamples/ /iisadmpwd/ /msadc/ /scripts/ /x/ /y/ /z/ /default.ida /php-bin/ /cgi-bin/ /admin/
