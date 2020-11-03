@@ -82,6 +82,13 @@ Appendille ei välttämättä ole näpäkkää suoraa käännöstä, jos halutaa
 että lisätään esim. listan tai tiedoston loppuun (alkuun). Usein kuitenkin vain
 _lisää_.
 
+
+### Read-only
+
+Read-onlyn voi suoraan suomentaa vain-luvuksi, esim. "Read-only mode" =
+*vain-luku-tila*, mutta se on hieman kankea, ja joskus on parempi uudellen
+sanailla vaikkapa *kirjoitussuojatuksi* jos mahdollista.
+
 ## Suomenkieliset rakenteet
 
 ## Ei voi, voida, voitu...
