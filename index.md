@@ -41,11 +41,20 @@ immaturer.
 ## Flammie
 
 * Academic, professional details are in [my cv](purplemonkeydishwasher/cv.html).
-** Cite as *Tommi A Pirinen* [ORCID: 0000-0003-1207-5395](https://orcid.org/0000-0003-1207-5395)
+  * Cite as *Tommi A Pirinen* [ORCID: 0000-0003-1207-5395](https://orcid.org/0000-0003-1207-5395)
 * Free/Libre Open Source Software enthusiast
-** Cite as *Flammie* [github: flammie](https://github.com/flammie)
-* Feel free to mix and match my names and nicks but I do respond to Flammie more likely than Tommi in spoken communication due to the simple fact that the latter is like the most common name in Finland and I learnt to ignore it quite early on.
-* Native Finnish pronunciations are ([IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet))  [flamːie] and [tomːi] but can anglicise freely, e.g. [fleɪmɪ] and [tʰɒmi] are perfectly acceptable. I'm afraid the surname is not easily understandable in foreign accent, if you need it in some occasion try [pirinen] (yeah Finnish orthography is relatively modern and phonemic, and matches the IPA transcription quite well)
+  * Cite as *Flammie* [github: flammie](https://github.com/flammie)
+* Feel free to mix and match my names and nicks but I do respond to Flammie more
+  likely than Tommi in spoken communication due to the simple fact that the
+  latter is like the most common name in Finland and I learnt to ignore it quite
+  early on.
+* Native Finnish pronunciations are
+  ([IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet))
+  [flamːie] and [tomːi] but can anglicise freely, e.g. [fleɪmɪ] and [tʰɒmɪ] are
+  perfectly acceptable. I'm afraid the surname is not easily understandable in
+  foreign accent, if you need it in some occasion try [pirinen] (yeah Finnish
+  orthography is relatively modern and phonemic, and matches the IPA
+  transcription quite well)
 
 ### Contact information / social media
 
@@ -54,7 +63,10 @@ E-mail rather than telephone. Some of the protocols are maybe not used anymore,
 instant messengers and Google+ perhaps are rather extinct.
 
 | *Contact* | *Address (link)* |
+| :-------  | :--------------  |
 | *E-Mail* | flammie@iki.fi (personal email / no work stuff) |
+|          | tommi.pirinen@iki.fi (work stuff) |
+|          | tommi.pirinen@uit.no (redirects to ^^) |
 | IRC | [Flammie on Freenode](irc://Freenode/Flammie?isnick) |
 | | [Web IRC on Freenode](https://webchat.freenode.net) |
 | Twitter | [ffFlammie](https://twitter.com/ffFlammie) |
@@ -65,7 +77,12 @@ instant messengers and Google+ perhaps are rather extinct.
 | Google (~~plus~~) | ffflammie |
 | Facebook (Personal; mostly mundane ranting) | [ffflammie](https://www.facebook.com/ffflammie) |
 | Vkontakte | [ffflammie](https://vk.com/ffflammie) |
-| Telephone | none |
+| ~~Telephone~~ | **none** |
+
+*NB:* the mail address @uit.no is redirected because our university uses
+*Microsoft Exchange Office 365 mail* with *2FA* (two *factor* authentication,
+but other interpretations are possible) that only works with *Microsoft Windows*
+version of *Microsoft Outlook* which I **never** have access to.
 
 ### Calendar
 
