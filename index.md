@@ -8,13 +8,15 @@ github](https://github.com/flammie).
 For the following github projects I also have gh-pages branches:
 
 * [Open morphology of Finnish](omorfi/)
-* [Research papers](purplemonkeydishwasher/) (academic papers’ tex files, bib files and a CV / publication list)
+* [Research papers](purplemonkeydishwasher/) (academic papers’ tex files, bib
+  files and a CV / publication list)
 * [Flammie’s Dotfiles](dotfiles/) (it is, the configuration files)
 
 The [Apertium](//apertium.github.io)-based projects are now under apertium
 github pages:
 
-* [Apertium Finnish dictionary (derived from omorfi)](//apertium.github.io/apertium-fin/)
+* [Apertium Finnish dictionary (derived from
+  omorfi)](//apertium.github.io/apertium-fin/)
 * [Apertium Finnish–English resources](//apertium.github.io/apertium-fin-deu/)
 * [Apertium Finnish–German resources](//apertium.github.io/apertium-fin-eng/)
 
@@ -41,7 +43,8 @@ immaturer.
 ## Flammie
 
 * Academic, professional details are in [my cv](purplemonkeydishwasher/cv.html).
-  * Cite as *Tommi A Pirinen* [ORCID: 0000-0003-1207-5395](https://orcid.org/0000-0003-1207-5395)
+  * Cite as *Tommi A Pirinen*
+  [ORCID: 0000-0003-1207-5395](https://orcid.org/0000-0003-1207-5395)
 * Free/Libre Open Source Software enthusiast
   * Cite as *Flammie* [github: flammie](https://github.com/flammie)
 * Feel free to mix and match my names and nicks but I do respond to Flammie more
@@ -52,7 +55,7 @@ immaturer.
   ([IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet))
   [flamːie] and [tomːi] but can anglicise freely, e.g. [fleɪmɪ] and [tʰɒmɪ] are
   perfectly acceptable. I'm afraid the surname is not easily understandable in
-  foreign accent, if you need it in some occasion try [pirinen] (yeah Finnish
+  foreign accent, if you need it in some occasion try [pirinen] (yeah Finnish
   orthography is relatively modern and phonemic, and matches the IPA
   transcription quite well)
 
@@ -69,7 +72,7 @@ instant messengers and Google+ perhaps are rather extinct.
 |          | tommi.pirinen@uit.no (redirects to ^^) |
 | IRC | [Flammie on Freenode](irc://Freenode/Flammie?isnick) |
 | | [Web IRC on Freenode](https://webchat.freenode.net) |
-| Twitter | [ffFlammie](https://twitter.com/ffFlammie) |
+| Twitter | [ffFlammie](https://twitter.com/ffFlammie) |
 | Mail | ask for street address |
 | | D-20459 Hamburg |
 | | Deutschland |
