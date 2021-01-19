@@ -61,9 +61,7 @@ immaturer.
 
 ### Contact information / social media
 
-When contacting, I do prefer methods that are earlier in below table, e.g.
-E-mail rather than telephone. Some of the protocols are maybe not used anymore,
-instant messengers and Google+ perhaps are rather extinct.
+Prefer email, no voice chats or video conferences unless really necessary.
 
 | *Contact* | *Address (link)* |
 | :-------  | :--------------  |
@@ -72,15 +70,20 @@ instant messengers and Google+ perhaps are rather extinct.
 |          | tommi.pirinen@uit.no (redirects to ^^) |
 | IRC | [Flammie on Freenode](irc://Freenode/Flammie?isnick) |
 | | [Web IRC on Freenode](https://webchat.freenode.net) |
+| matrix | @Flammie:matrix.org |
 | Twitter | [ffFlammie](https://twitter.com/ffFlammie) |
-| Mail | ask for street address |
-| | D-20459 Hamburg |
-| | Deutschland |
-| Linkedin (Professional) | [tommi-pirinen](https://www.linkedin.com/in/tommi-pirinen-6182127/) |
-| Google (~~plus~~) | ffflammie |
-| Facebook (Personal; mostly mundane ranting) | [ffflammie](https://www.facebook.com/ffflammie) |
+| Linkedin | [tommi-pirinen](https://www.linkedin.com/in/tommi-pirinen-6182127/) |
+| Google | ffflammie@gmail.com |
+| Facebook | [ffflammie](https://www.facebook.com/ffflammie) |
 | Vkontakte | [ffflammie](https://vk.com/ffflammie) |
 | ~~Telephone~~ | **none** |
+| Telegram | *search* |
+| Skype | *search* |
+| Zoom | *search* |
+| ~~WhatsApp~~ | **Never used** |
+| Mail | *ask for street address* |
+| | NO-9008 |
+| | Noreg |
 
 *NB:* the mail address @uit.no is redirected because our university uses
 *Microsoft Exchange Office 365 mail* with *2FA* (two *factor* authentication,
