@@ -26,6 +26,7 @@ list automatedly later though.
 | **tulkata** | interpret |  | **tolke** |
 | **valtameri** | ocean | **weltmeer** | |
 | **vanki** | captive | **gefängt** | **fange** | **fange** |
+| **papukaija** | parrot | **Papagei** | **papegøie** | **papegoi** |
 
 ¹ milkery as in dairy processing place thing, can be called dairy but is more
 ambiguous.

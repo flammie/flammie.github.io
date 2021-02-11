@@ -20,24 +20,11 @@ github pages:
 * [Apertium Finnish–English resources](//apertium.github.io/apertium-fin-deu/)
 * [Apertium Finnish–German resources](//apertium.github.io/apertium-fin-eng/)
 
-On this root site I have also written few essays / rants / writeups like so:
+Here is also a section for [essays, rants and such writeups](rants.html), where
+I write things that are not quite well-formulated enough for academic short
+papers even but longer than tweets, you could call them blog posts but they kind
+of lack the temporal concept of blog postings somehow...
 
-* Notes on [terms and expressions in Finnish software
-  translations](finnish-translator-notes.html)
-* Rant on the misguided concept of [Academic English](academic-english.html)
-* Apology on [My English](my-english.html)
-* *WIP*: survey on usage of the word
-  [Low-resource](what-is-low-resource-language.html) in NLP
-* *WIP*: survey on usage of the expression
-  [Morpologically complex](what-is-morphologically-complex-language.html)
-  in NLP
-* Essay on terms [morph and morpheme](morph-or-morpheme.html)
-
-Maybe also check [flammie.dyndns.org archives](archive/index.html), some of the
-pages I written in the early years of the internet, some found from the internet
-archive some actually just saved over the years. This is like my old blogs and
-"home pages". They are similar rants like abovementioned, just ways older and
-immaturer.
 
 
 ## Flammie
