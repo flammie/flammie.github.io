@@ -21,7 +21,9 @@ is considered bad.
 I will list on this page things that annoy me as I see them, whenever I have to
 deal with c++ again. Since I work with natural language processing, it is no
 surprise that [String handling](#string_handling), a notoriously impossible task
-in C++, comes first.
+in C++, comes first. Incidentally, just few days after writing this I found
+someone else's account on same problem: [C++: the cobol of
+90's](http://web.mit.edu/simsong/www/ugh.pdf#page=238) [*PDF* unfortunately].
 
 ## String handling
 
