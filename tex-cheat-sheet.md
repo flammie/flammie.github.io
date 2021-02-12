@@ -49,4 +49,23 @@ Heading & Content \\
 ```
 
 I personally don't see the difference but some of your reviewers might if you
-are writing to an academic conference so it's probably a good habit to have.
+are writing to an academic conference so it's probably a good habit to have. An
+example from twitter:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I think Tufte is a hack
+and a dilletante but he&#39;s right about one thing: tables don&#39;t need
+vertical lines, and you should use the absolute minimum number of horizontal
+lines too. There is no conceivable reason to have \hline after each
+row.</p>&mdash; I&#39;ll never use the Confederate word (@wellformedness) <a
+href="https://twitter.com/wellformedness/status/1358515118078889987?ref_src=twsrc%5Etfw">February
+7, 2021</a></blockquote> <script async
+src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Followed by:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">There&#39;s no
+conceivable reason to use \hline ever, booktabs 4 life ;)</p>&mdash; Marcel
+Bollmann (@mmbollmann) <a
+href="https://twitter.com/mmbollmann/status/1358535267024568324?ref_src=twsrc%5Etfw">February
+7, 2021</a></blockquote> <script async
+src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
