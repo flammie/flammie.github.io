@@ -27,6 +27,8 @@ list automatedly later though.
 | **valtameri** | ocean | **weltmeer** | |
 | **vanki** | captive | **gefängt** | **fange** | **fange** |
 | **papukaija** | parrot | **Papagei** | **papegøie** | **papegoi** |
+| **teltta** | **tent** | **Zelt** | **telt** | |
+| aiheuttaa | cause | **verursachen** | **forårsake** | |
 
 ¹ milkery as in dairy processing place thing, can be called dairy but is more
 ambiguous.
