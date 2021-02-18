@@ -20,3 +20,4 @@ for my RBMT work and linguistics as well.
 | gillar | liker |
 | skillnad | forskjell |
 | jätte- | kjempe- |
+| svårt | vanskelig |
