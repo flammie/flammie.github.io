@@ -19,6 +19,7 @@ github pages:
   omorfi)](//apertium.github.io/apertium-fin/)
 * [Apertium Finnish–English resources](//apertium.github.io/apertium-fin-deu/)
 * [Apertium Finnish–German resources](//apertium.github.io/apertium-fin-eng/)
+* [Apertium Finnish–Norwegian resources](//apertium.github.io/apertium-fin-nor/)
 
 Here is also a section for [essays, rants and such writeups](rants.html), where
 I write things that are not quite well-formulated enough for academic short
