@@ -54,6 +54,7 @@ Prefer email, no voice chats or video conferences unless really necessary.
 | *E-Mail* | flammie@iki.fi (personal email / no work stuff) |
 |          | tommi.pirinen@iki.fi (work stuff) |
 |          | tommi.pirinen@uit.no (redirects to ^^) |
+|          | ...@gmail.com (redirects to ^^) |
 | IRC | [Flammie on Freenode](irc://Freenode/Flammie?isnick) |
 | | [Web IRC on Freenode](https://webchat.freenode.net) |
 | matrix | @Flammie:matrix.org |
@@ -71,10 +72,12 @@ Prefer email, no voice chats or video conferences unless really necessary.
 | | NO-9000 |
 | | Noreg |
 
-*NB:* the mail address @uit.no is redirected because our university uses
+*NB:* the mail address @uit.no is redirected, because our university uses
 *Microsoft Exchange Office 365 mail* with *2FA* (two *factor* authentication,
 but other interpretations are possible) that only works with *Microsoft Windows*
-version of *Microsoft Outlook* which I **never** have access to.
+version of *Microsoft Outlook* which I **never** have access to. The mail sent
+to my gmail address gets redirected to spam folder, in my main inbox, it is
+mainly used by Google apps that do not work with non-gmail addresses.
 
 ### Calendar
 
