@@ -154,4 +154,31 @@ systematically at all. It usually mostly matters in writing though, in speaking
 ignoring or adding articles is so easily overlooked that people generally do not
 mind.
 
+### Adpositions
+
+Adpositions are used in English for two different things that are very
+unintuitive for non-native speaker. The more concrete use is to mainly indicate
+locations and sometimes directions: *in*, *at* and *on* are particularly
+confusables for many cases. There is not very strong logic behind the difference
+of *at the airport*, *at home*, *in school*, *in Sweden* etc., you can always
+try and come up with rationalisations but the problem is, other languages
+selected differently and their speakers also insist they are logical with good
+reasonings. This is not a case that usually hinders underestanding, so it is
+naturally ignored in real world use a lot. Some people might even say there's a
+difference between *in the airport* and *at the airport*, but the reality of
+this kind of language use is, is if you do intend to make such difference, it is
+lost on majority of your readers / listeners.
+
+The second arbitrary use case of adpositions is in so-called *phrasal verb
+constructions*, here the adposition is kind of tacked on afters some verb to
+make totally new verb, for example: *fuck up* has not much to do with copulating
+and definetely nothng with direction up. I feel like I have learnt these more
+systematically than the adpositions of places though, apart from such edge cases
+like *write down* ~ *write up* which is kind of inverse of the Finnish idiom, I
+don't often mistake the things here then.
+
+I should note that the mistakes I make can stack up, like today, I meant
+something like *they met **at the** restaurant*, but said *they met **in a**
+restaurant*, does the meaning change, did the listeners get what I meant, I'm
+not really sure.
 
