@@ -84,6 +84,10 @@ Because now it doesn't fit into window on 80 character cell terminal screen
 anymore and the logic is frankly speaking unpossible to follow and you will flip
 it every other time you write, much better more goodness.
 
+It might sound like I'm inventing strawmen and being facetious, but this is a
+real thing: https://www.youtube.com/watch?v=p0KKBmfiVl0 ... *elegant* he calls
+it to avoid ifs.
+
 ### Optimise by combining irrelevant conditions
 
 Another form of optimising logic is very common with c and c++ programmers, I
