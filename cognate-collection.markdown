@@ -11,8 +11,8 @@ copied from the same source in 99 % of the world languages. I might make another
 list automatedly later though.
 
 
-| Finnish | English | German | Norwegian | Swedish |
-| :------ | :------ | :----- | :-------- | :------ |
+| Finnish | English | German | Norwegian | Swedish | Hungarian |
+| :------ | :------ | :----- | :-------- | :------ | :-------- |
 | **ananas** | pineapple | **Ananas** | **ananas** | **ananas** |
 | **arkkitehti** | **architect** | | **arkitekt** | **arkitekt** |
 | **kaneli** | cinnamon | Zimt | **kanel** | **kanel** |
@@ -29,8 +29,13 @@ list automatedly later though.
 | **papukaija** | parrot | **Papagei** | **papegøie** | **papegoi** |
 | **teltta** | **tent** | **Zelt** | **telt** | |
 | aiheuttaa | cause | **verursachen** | **forårsake** | |
+| **pappi** | priest | | | | **pap** |
+| mahdollinen² | possible | **möglich** | **mulig** | **möglig** | lehetséges |
+| **vitsi** | joke | **Witz** | | | **vicc** |
+| viesti | message | **Bescheid** | **besked** | | **beskéd** |
+| **sarvi** | horn | | | | **szarv** |
 
 ¹ milkery as in dairy processing place thing, can be called dairy but is more
 ambiguous.
-
+² I wonder if *mahtaa* has same origins though.
 
