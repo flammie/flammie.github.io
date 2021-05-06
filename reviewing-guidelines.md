@@ -2,8 +2,8 @@
 
 As a senior science making human, I spend as much time writing reviews in
 academic conferences as I do receiving them. As we all know, there are plenty of
-problems in the whole process still in 2020, but I try my best not to add to
-the specific problem of *bad* or *useless* or even *rage-inducing* reviews. Here
+problems in the whole process still in 2020, but I try my best not to add to the
+specific problem of *bad* or *useless* or even *rage-quit*-worth reviews. Here
 are some guidelines I have found useful as a writer of reviews with some
 insights also from the point-of-view of the receiver of the reviews. I try to
 always include real-world examples, most of them are either written or received
@@ -63,7 +63,7 @@ Some examples from twitter:
 ## Describe what you expected
 
 Writing a good review often includes revealing that you had expectations from
-the article that were not fulfilled, and while it may not be caused by the
+the article that were not fulfilled, and while it may not be fault of the
 authors of the article, making them understand that potential readers feel this
 way, is a good improvement to the article. What I often write in reviews and
 like receiving as feedback says this clearly: *When I saw the title I thought
