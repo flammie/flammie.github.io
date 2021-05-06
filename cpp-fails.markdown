@@ -41,6 +41,22 @@ turn `std::basic_string<char, std::char_traits<char>, std::allocator<char> >`!
 When your basic type does not fit into 80 character line you know you're in for
 a treat, of well-designed basic type with no bloat whatsoever.
 
+Yes the huge failure that is `wchar_t` in C has been inherited and compounded to
+c++ as wstring, that is `std::basic_string<wchar_t std::char_traits<wchar_t>
+std::allocator<wchar_t>>` between friends. Like `wchar_t` it doesn't guarantee
+any usable unicode or encoding support, works if whenever between oses.
+
+Yes, we have even more string types for different libraries, e.g. for libxml a
+XML string type, GLib has Glib string type, and ICU has probably few different
+string types. Because C++ is well designed, you probably have automatic implicit
+conversions from integers and null pointers to all this string types back and
+front, but converting an XML string into C++ standard string requires 10 lines
+of code, most of which have like `blubberfubbler_cast<std::string>() !==
+nullptr` or whatnot... and this design is considered good.
+
+Is that all with the string types? No it's not, with *modern* C++ we also get
+`string_view` for example.
+
 ### Unicode?
 
 No. C++ doesn't really support anything unicode in any string types. The wchar
@@ -79,4 +95,24 @@ not too bad actually. I know the example is single character so there are few
 magic shortcuts one can use that totally break if there is two characters so
 just assume it was to replace double space with single or something.
 
+### Iterators and indices
 
+Yeah so C++ altogether is a horrible mishmash of weird pointers, iterators and
+like byte count index kind of things, but nowhere is it more obvious than when
+you have to deal with strings member functions and iterating strings and using
+algorithms to deal with strings. A lot of time of course you don't have to care
+about it, whether function operates on start iterator and end iterator or start
+index and end index it is the same, in matter of fact the bigger problem can be
+then if a function that you'd expect to operate on start and end functions with
+start and length instead. Like `substr`...
+
+# TODO list of c++ fails
+
+Things I know are horrible but haven't described here yet
+
+* RAII
+* CRTP
+* most vexing parse
+* STL
+* boost
+* SFINAE
