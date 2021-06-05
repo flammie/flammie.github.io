@@ -26,26 +26,23 @@ I write things that are not quite well-formulated enough for academic short
 papers even but longer than tweets, you could call them blog posts but they kind
 of lack the temporal concept of blog postings somehow...
 
-## Flammie
+# Flammie
 
-* Academic, professional details are in [my cv](purplemonkeydishwasher/cv.html).
-  * Cite as *Tommi A Pirinen*
-  [ORCID: 0000-0003-1207-5395](https://orcid.org/0000-0003-1207-5395)
+* [Academic stuff](purplemonkeydishwasher/)
+  * You can search some of my academic papers under my old name *Tommi Pirinen*
+  * [ORCID: 0000-0003-1207-5395](https://orcid.org/0000-0003-1207-5395)
 * Free/Libre Open Source Software enthusiast
-  * Cite as *Flammie* [github: flammie](https://github.com/flammie)
-* Feel free to mix and match my names and nicks but I do respond to Flammie more
-  likely than Tommi in spoken communication due to the simple fact that the
-  latter is like the most common name in Finland and I learnt to ignore it quite
-  early on.
-* Native Finnish pronunciations are
+  * [github: flammie](https://github.com/flammie)
+* Native Finnish pronunciations is
   ([IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet))
-  [flamːie] and [tomːi] but can anglicise freely, e.g. [fleɪmɪ] and [tʰɒmɪ] are
-  perfectly acceptable. I'm afraid the surname is not easily understandable in
-  foreign accent, if you need it in some occasion try [pirinen] (yeah Finnish
+  ['flamː.ie] but can anglicise freely, e.g. [fleɪmɪ] is perfectly acceptable.
+  I'm afraid the surname is not easily understandable in
+  foreign accent, if you need to pronounce the surname for some reason like
+  introduction at an academic event, try ['pi.Ri,nen] (yeah Finnish
   orthography is relatively modern and phonemic, and matches the IPA
   transcription quite well)
 
-### Contact information / social media
+# Contact information / social media
 
 Prefer email, no voice chats or video conferences unless really necessary.
 
@@ -79,22 +76,9 @@ version of *Microsoft Outlook* which I **never** have access to. The mail sent
 to my gmail address gets redirected to spam folder, in my main inbox, it is
 mainly used by Google apps that do not work with non-gmail addresses.
 
-### Calendar
+# Calendar
 
 If you need to schedule things with me, check [my google
 calendar](https://calendar.google.com/calendar/u/0?cid=ZmZmbGFtbWllQGdtYWlsLmNvbQ).
-
-### Other people with same name
-
-There are other people on the internet with the same names, since Finnish name
-laws ensure very limited set of names for people (2021 and counting). Following
-internet people *are not me*, lol:
-
-* https://www.instagram.com/pirinentommi/?hl=fi
-* https://topteam.fi/tiimi/tommi-pirinen/
-* https://twitter.com/4b4832f52bdc497
-* https://www.eliteprospects.com/staff/33760/tommi-pirinen
-* https://ra.co/dj/tommioskari
-
 
 <!-- vim: set ft=markdown -->
