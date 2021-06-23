@@ -8,11 +8,27 @@ On this page I collect some misguided advice that people consider good practices
 in various programming languages, but that only makes code unreadable and
 intents unclear.  There's a ton of guides on coding styles that deal with things
 like spaces and tabs, indentation schemes and aligning stuff, but that's just
-minor estetics I won't talk about here; pick one and be systematic is all. What
+minor aesthetics I won't talk about here; pick one and be systematic is all. What
 I will talk here is some harmful advice that is presented as if it was about
 coding style or worse yet, better style. The coding style advice that tells you
 to remove unnecessary parentheses or whatnot, when it is obvious that the
 parentheses make it easier to read the intention of the programmer.
+
+One thing I read on twitter recently said something along the lines *reduce [in
+python] is mainly used to demonstrate by programmers to demonstrate how clever
+they think they are and make things unreadable*, this attitude I feel is the
+source of most bad coding style advice and bad good practices. It is especially
+popular in C++ but often with new up and coming languages as well.
+
+Here is a good comic about perhaps how I kind of feel about ill-advised coding
+styles:
+[https://workchronicles.com/as-the-years-go-by/](https://workchronicles.com/as-the-years-go-by/)
+
+And here is a really good youtube video specific to python but has exactly the
+sentiment I mean to convey here:
+
+[Youtube: When Python Practices Go
+Wrong](https://www.youtube.com/watch?v=ZdVgwhHXMpE)
 
 ## Avoid including too many headers (C++)
 
@@ -146,3 +162,47 @@ because it's less lines I guess and else is deemed unnecessary as return ensures
 we don't go there. The problem is that the logic is hidden behind clever hacks
 again, it's unreadable and confusing, and preferred by pylint.
 
+## Drop maximal amount of braces
+
+This is somewhat a classic from C era of programming already, but clever
+programmers in those times were all about minimising number of characters used,
+as clever programmers usually are. In this case, we find that curly braces
+surrounding blocks can be removed if block body is a single statement, e.g. for
+an if statement or similar. So instead of:
+
+```C
+if (condition) {
+  statement;
+}
+```
+
+or similar you can be super clever and economic and write:
+
+```C
+if (condition)
+  statement;
+```
+
+and depending on your bracketing style even save multiple lines! The joke here,
+that most C programmers learnt sooner or later is, you actually cannot guarantee
+that your statement is not a macro containing more than one statements, and you
+cannot guarantee that someone won't add second statement there without adding
+braces, both:
+
+```C
+#define FOO foo; bar;
+if (condition)
+  FOO;
+```
+
+and
+
+```
+if (condition)
+  foo;
+  bar;
+baz;
+```
+
+are common appearances in code-bases and really hard to see what's wrong (bar
+gets used inconditionally).

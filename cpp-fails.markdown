@@ -116,3 +116,15 @@ Things I know are horrible but haven't described here yet
 * STL
 * boost
 * SFINAE
+
+# See also
+
+One of my favourite ways to get annoyed about how bad C++ is is to follow what
+C++ enthusiasts do, believe it or not. Youtube channels like C++ weekly with
+Jason Turner, or cppcon and boostcon are just full of C++ WTF material, and
+these are people who are proponents of C++. Same is true for C++ books by these
+professionals: Nikolai Josuttis, Stuart Herbert etc. write books about the most
+efficient and smart C++ stuff that is all very WTF-worthy usually. This is all
+ideal if you want to have an headache for sure. With the exception of Bjarne
+Stroustrup, who is actually quite sensible and reasonable and talks about things
+that make sense.
