@@ -33,10 +33,14 @@ of lack the temporal concept of blog postings somehow...
   * [ORCID: 0000-0003-1207-5395](https://orcid.org/0000-0003-1207-5395)
 * Free/Libre Open Source Software enthusiast
   * [github: flammie](https://github.com/flammie)
-* Native Finnish pronunciations is
+* **Pronunciation:**
+  * Native Finnish pronunciations is
   ([IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet))
-  ['flamː.ie] but can anglicise freely, e.g. [fleɪmɪ] is perfectly acceptable.
-  I'm afraid the surname is not easily understandable in
+  ['fla.mːi.e],
+  * theoretically origin is japanese フラミー (Furamī, so
+  ['fɾa.mi:]), but
+  * you can also anglicise freely, e.g. [fleɪmɪ] is perfectly acceptable.
+  * I'm afraid the surname is not easily understandable in
   foreign accent, if you need to pronounce the surname for some reason like
   introduction at an academic event, try ['pi.Ri,nen] (yeah Finnish
   orthography is relatively modern and phonemic, and matches the IPA
@@ -44,14 +48,17 @@ of lack the temporal concept of blog postings somehow...
 
 # Contact information / social media
 
-Prefer email, no voice chats or video conferences unless really necessary.
+* Prefer email, chats, social media,
+* no voice chats or video conferences unless necessary,
+* no telephone calls,
+* if office door is open knock in
 
 | *Contact* | *Address (link)* |
 | :-------  | :--------------  |
-| *E-Mail* | flammie@iki.fi (personal email / no work stuff) |
-|          | tommi.pirinen@iki.fi (work stuff) |
-|          | tommi.pirinen@uit.no (redirects to ^^) |
-|          | ...@gmail.com (redirects to ^^) |
+| *E-Mail* | flammie@iki.fi (not work) |
+|          | tommi.pirinen@iki.fi (work, but permanent) |
+|          | tommi.pirinen@uit.no (work) |
+|          | ffflammie@gmail.com (Google stuff) |
 | IRC | [Flammie on Freenode](irc://Freenode/Flammie?isnick) |
 | | [Web IRC on Freenode](https://webchat.freenode.net) |
 | matrix | @Flammie:matrix.org |
@@ -69,12 +76,7 @@ Prefer email, no voice chats or video conferences unless really necessary.
 | | NO-9000 |
 | | Noreg |
 
-*NB:* the mail address @uit.no is redirected, because our university uses
-*Microsoft Exchange Office 365 mail* with *2FA* (two *factor* authentication,
-but other interpretations are possible) that only works with *Microsoft Windows*
-version of *Microsoft Outlook* which I **never** have access to. The mail sent
-to my gmail address gets redirected to spam folder, in my main inbox, it is
-mainly used by Google apps that do not work with non-gmail addresses.
+
 
 # Calendar
 
