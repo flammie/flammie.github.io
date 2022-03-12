@@ -23,3 +23,11 @@ git pull upstream master
 git push origin master
 git checkout -b feature/....
 ```
+
+## See committed but not pushed stuff
+
+Why is this so complicated fml:
+
+```
+git diff --cached
+```
