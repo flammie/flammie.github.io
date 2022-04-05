@@ -37,9 +37,10 @@ of lack the temporal concept of blog postings somehow...
   * Native Finnish pronunciations is
   ([IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet))
   ['fla.mːi.e],
-  * theoretically origin is japanese フラミー (Furamī, so
+  * theoretically origin is in Japanese フラミー (Furamī, so
   ['fɾa.mi:]), but
   * you can also anglicise freely, e.g. [fleɪmɪ] is perfectly acceptable.
+  * many cyrillic contexts will probably work as фламме?
   * I'm afraid the surname is not easily understandable in
   foreign accent, if you need to pronounce the surname for some reason like
   introduction at an academic event, try ['pi.Ri,nen] (yeah Finnish
