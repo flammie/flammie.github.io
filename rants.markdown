@@ -1,6 +1,14 @@
 # Flammie on things and stuff
 
-This is a list of my opinions and notes
+I use this github page section to collect all kinds of opinion pieces, essays,
+just any kind of writings that do not fit into social media or other places I
+post stuff into (e.g. [reviews](/reviews-everything/)). Perhaps if it was 1990s
+or first decade of 2000s this would be a blog site. These may be
+work-in-progress, this whole site is 50-50 for me to dump my brains onto vs.
+actually providing answers and information to people on interesting things. I
+have found that unless I write down some of these thoughts that I have in my
+mind they will keep bothering my concentration (unless I debate about the topic
+with my colleagues or friends).
 
 ## Linguistics, NLP and just language stuffs
 
@@ -27,15 +35,19 @@ See also: [Flammie's academic works](/purplemonkeydishwasher/)
   languages](what-is-low-resource-language.html)
 * Twitter and comp.ling. scene on [*Morphologically complex*
   languages](what-is-morphologically-complex-language.html)
+* [*Flags are not languages* aka why are we still talking about this in
+  2021](flags-are-not-languages.html)
+* [Finnish language and culture shocks](finnish-culture.html)
 
 ## Programming and computer stuffs
 
-See also: [Flammie’s dotfiles](/dotfiles/)
+See also: [Flammie’s dotfiles](/dotfiles/), [flammie's github](
 
 * [C++ is a bad bad language](cpp-fails.html)
 * [TeX cheat sheet](tex-cheat-sheet.html), things I have had to google more
   than once
-* [Git cheat sheet](git-cheat-sheet.html),
+* [Git cheat sheet](git-cheat-sheet.html), things I have had to google more
+  than once
 
 ## Other stuff
 
