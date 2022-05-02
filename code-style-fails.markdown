@@ -162,6 +162,9 @@ because it's less lines I guess and else is deemed unnecessary as return ensures
 we don't go there. The problem is that the logic is hidden behind clever hacks
 again, it's unreadable and confusing, and preferred by pylint.
 
+* See also:
+  <https://blog.mozilla.org/nnethercote/2009/08/31/no-else-after-return-considered-harmful/>
+
 ## Drop maximal amount of braces
 
 This is somewhat a classic from C era of programming already, but clever
