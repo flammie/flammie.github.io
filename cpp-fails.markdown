@@ -7,7 +7,7 @@ public listings on the same topic just as well, including:
 * [C++ FQA](https://yosefk.com/c++fqa/)
 * [C++ criticism on
    wikipedia!](https://en.wikipedia.org/wiki/Criticism_of_C%2B%2B)
-* https://apenwarr.ca/log/20100718
+* <https://apenwarr.ca/log/20100718>
 * etc...
 
 One of the biggest problems I have with C++ is that it seems to be designed to
@@ -106,6 +106,10 @@ index and end index it is the same, in matter of fact the bigger problem can be
 then if a function that you'd expect to operate on start and end functions with
 start and length instead. Like `substr`...
 
+# Smarter pointers
+
+* <https://dustri.org/b/my-favourite-c-footgun.html>
+
 # TODO list of c++ fails
 
 Things I know are horrible but haven't described here yet
@@ -116,6 +120,8 @@ Things I know are horrible but haven't described here yet
 * STL
 * boost
 * SFINAE
+* smarter pointers
+* casts
 
 # See also
 
