@@ -10,7 +10,7 @@ and book author, etc. The fact that we had a consensus on how bad idea this was
 in 1990s, makes it ever so much more annoying that we still face the issue in
 2021. And it is not few uninformed individuals making the mistake, it is
 [highly respected computational linguists studying language typology who should
-know better](https://universaldependencies.org/). 
+know better](https://universaldependencies.org/).
 
 ## The mistakes
 
@@ -26,16 +26,17 @@ Let us study some examples:
 
 1. English is spoken as official language in dozens of countries, if we
    used the logic that gets used in minority language flags,
-   * it would be ok to flag all English corpora with flags of ?????
-   (Antigua and Barbuda, Bahamas, Barbados, Belize, Botswana or Brunei, i.e. 
-   the alphabetically first countries with English as official langauge) 
-   * or how about ? (English flag) 
-   * or ? (flag of UAE)?
+   * it would be ok to flag all English corpora with flags of
+   🇦🇬 🇧🇸 🇧🇧 🇧🇿 🇧🇼 🇧🇳
+   (Antigua and Barbuda, Bahamas, Barbados, Belize, Botswana or Brunei, i.e.
+   the alphabetically first countries with English as official langauge)
+   * or how about 🏴󠁧󠁢󠁥󠁮󠁧󠁿 (English flag)
+   * or 🇦🇪 (flag of UAE)?
 1. Minority languages (i.e. not national languages) are often spoken in
    number of countries perhaps along border regions, with some or all host
    countries having rather sub-optimal language politics, having your
    language to be marked with flag of such entity is quite bad
-   * perhaps languages in India and Pakistan or China and nearby 
+   * perhaps languages in India and Pakistan or China and nearby
    territories for example (again, I am not good in history / politics /
    geopolitics, there probably are better examples)
 1. Even non-minority languages can be part of (political) fights where all
