@@ -31,17 +31,22 @@ list automatedly later though.
 | aiheuttaa | cause | **verursachen** | **forårsake** | |
 | **pappi** | priest | | | | **pap** |
 | mahdollinen² | possible | **möglich** | **mulig** | **möglig** | lehetséges |
-| **vitsi** | joke | **Witz** | | | **vicc** |
+| **vitsi** | joke | **Witz** | **vits** | | **vicc** |
 | viesti | message | **Bescheid** | **besked** | | **beskéd** |
 | **sarvi** | horn | | | | **szarv** |
 | **miekka** | *sword* | *Schwert* | *svert* | *svärd* | kard | **меч** |
-| aavistus | ? | **Ahnung** | **aning** | **anelse** |
-
+| aavistus | "premonition" | **Ahnung** | **aning** | **anelse** |
+| **Liima** | glue | **Leim** | **lim** | **lim** |
+| juttu | stuff | **Zeug** | **tøy** |
+| **sänky** | *bed* | *Bett* | **seng** |
+| **hai** | shark | **Hai** |
+| lähde | source | **quell** | **kilde** | **kjelde** |
 
 ## Pineapple
 
 Pineapple is funny because it's practically only English that has it like that
-and all others went with *ananas*.
+and all others went with *ananas*. And pineapple is of course quite ridiculous
+itself.
 
 ## Milkery
 
@@ -64,7 +69,27 @@ This is another funny one, since *papu* in *papukaija* is Finnish for bean, you
 don't initially think it's just a corruption in borrowing but funny native
 coined word.
 
+## Shark
+
+German has brought many borrowings that are surprisingly Finnish sounding words
+in the animal kingdom, *hai* being one of them. See also [Life of Sharks fact
+622 (on Instagram)](https://www.instagram.com/p/CYG9_eiM5Ak/).
+
 ## Possible
 
 ² I wonder if *mahtaa* has same origins though.
+
+## Sword
+
+Miekka to мец is not super likely but it looked neatly similar :-)
+
+## Glue
+
+
+## Stuff
+
+Just because ‘stuff’ is my favourite word, and in germanic it gets used in a lot
+of compounds, and the Norwegian *tøy* looks like English ‘toy’ but it's not the
+right cognate (‘toy’ is *leketøy*)... it is possible that English ’toy' is a
+shortening of Norwegian or dutch toy.
 
