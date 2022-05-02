@@ -6,34 +6,31 @@ Norwegian these days, in general of course my Swedish wasn't too good but here's
 how I translate between them in my head usually. This is of course interesting
 for my RBMT work and linguistics as well.
 
-| Swedish | Norwegian bokmål |
-| :------ | :--------------- |
-| minner | husker |
-| pratar | snakker |
-| ätar | spiser |
-| jag | jeg |
-| mycket | mye |
-| ... | veldig |
-| översätning | øversettelse |
-| -ing | -else |
-| börjär | begynner |
-| gillar | liker |
-| skillnad | forskjell |
-| jätte- | kjempe- |
-| svårt | vanskelig |
+| Swedish | Norwegian bokmål | English gloss |
+| :------ | :--------------- | ------------: |
+| minner | husker | remember |
+| pratar | snakker | speak |
+| ätar | spiser | eat |
+| jag | jeg | I |
+| mycket | mye | much |
+| ... | veldig | a lot |
+| översätning | øversettelse | translation |
+| -ing | -else | -ion |
+| börjär | begynner | start |
+| gillar | liker | like |
+| skillnad | forskjell | difference |
+| jätte- | kjempe- | very |
+| svårt | vanskelig | difficult |
+| trädgård | hage | garden |
+| hända | skje | happen |
+| stenga | lukke | close |
+| slutta | ende | end |
+| börjä | begynne | start |
+| brukar | pleier | used to (do), (do) usually |
+| stänger | lukker | close |
 
-
-## Norwegian dialects
-
-In Tromsø there is an extra level of dialect you must observe (lik everywhere in
-Norway, I guess bokmål is like a district in Oslo), here's a post-processering
-table:
-
-| Bokmål | Tromsø |
-| :----- | :----- |
-| jeg | æ |
-| meg | mæ |
-| hvordan | korsjn |
-| hvad | ka |
-| ni | dåkker |
+Most of the Swedish words are more or less understood in Norway, sometimes with
+more or less specific restrictions, e.g. instead of *eat* it might be
+*masticate* or something (based on [s.v. ete in bokmål
+ordbok](https://ordbok.uib.no/perl/ordbok.cgi?OPP=ete&bokmaal=+&ordbok=bokmaal).
 
