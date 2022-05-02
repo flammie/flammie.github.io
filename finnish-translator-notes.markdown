@@ -1,8 +1,3 @@
----
-layout: default
-title: Huomioita ohjelmistojen suomentamisesta
----
-
 * **suomeksi** (This page is only in Finnish since it pertains to Finnish
   software translations
 
@@ -13,7 +8,7 @@ paljon ohjelmistoja. Alkuperäinen lista lienee jo kadonnut internetistä, täss
 on vain joitain huomioita ohjelmakäännöksistä jotka näkyvät edelleen olevan
 tyypillisiä softakäännösten ongelmia.
 
-## Englanninkieliset sanat
+## Sanat
 
 Joitain englanninkielisiä sanoja on syytä pitää erityisesti mielessä käännöksiä
 tehdessä, sillä niiden suora kääntäminen tekee käännöksistä tosi kökköjä. Joskus
@@ -41,18 +36,6 @@ muunlainen sarja asetuksia. Esim. vaihda tai vaihtele on melko ok, mutta
 silloinkin joutuu usein sanailemaan uudestaan, vaikka "toggle power" voi
 olla "vaihda virta päälle/pois" (tai kytke) niin "toggle display of
 HUD" pitää ainakin sanoa että "vaihtele hudin näkyvyyttä".
-
-### Run?
-
-Englanninkielistä kysymyksistä jätetään usein kysymys pois, eli lyhyesti vaikkapa
-"Run the program?" eikä "(Do/should we) run the program?" tms. Suomeksi tämä ei
-oikein toimi, vaan kannattaa aina lisätä kysmyspartikkeli -kO.
-
-> _Suoritetaanko?_
-
-Ei:
-
-> ~~Suorita?~~
 
 ### Really really?
 
@@ -89,9 +72,16 @@ Read-onlyn voi suoraan suomentaa vain-luvuksi, esim. "Read-only mode" =
 *vain-luku-tila*, mutta se on hieman kankea, ja joskus on parempi uudellen
 sanailla vaikkapa *kirjoitussuojatuksi* jos mahdollista.
 
-## Suomenkieliset rakenteet
+### Minimum ja maximum
 
-## Ei voi, voida, voitu...
+Minimum on vähimmäis- ja maximum enimmäis-. Yleensä kyse on määrästä mutta voi
+olla tilanteen mukaan myös pituus tai mitä tahansa. Usein käytetyt *maksimi* ja
+*minimi* ovat myös käyttökelpoisia mutta saattavat kuulostaa liian teknisiltä ja
+matemaattisilta jos kyse on ihan perusohjelmista.
+
+## Rakenteet
+
+### Ei voi, voida, voitu...
 
 Virheviestien kanssa on yleensä hyvä pitää mielessä mitä tarkalleen sanotaan,
 eli onko ongelma väliaikainen tai pysyvä, kannattaako käyttäjän yrittää
@@ -122,4 +112,30 @@ voisi olla oikein, sen milloin näin on voi havaita muotoilemalla lausetta
 uusiksi "virhe kun tallennettiin ~ tallentaa tiedostoa". Kaiketi on niin että
 vain silloin kun aktiivimuoto toimii 0-persoonarakenteena voi myös aktiivin
 e-infinitiiviä käyttää.
+
+### Lopetetaan? Tehdään?
+
+Englanninkielisissä lähdeteksteissä on tyypillistä esittää ikäänkuin
+intonaatiokysymyksiä lisäämällä kysymysmerkki jonkinlaisen
+toteamuslauseenperään, esimerkiksi "end program?", tämä ei toimi suomeksi sillä
+suomessa ei varsinkaan kirjakielessä ole tapana käyttää toteamuslauseita
+kysymyksinä, vaan kysymyssana tai liitepartikkeli -kO on pakollinen. Yleensä
+käyttämällä liitepartikkelia voikin tällaiset ilmaukset kääntää paljon
+täsmällisemmin, sillä suomessa kysymyksen voi kohdentaa mihin tahansa sanaan.
+
+> Virhe tapahtui. Lopetetaanko?
+
+Eikä:
+
+> ~~Virhe tapahtui, lopetetaan?~~
+
+### Ei voida jatkaa, ei muistia
+
+Monesti ohjelmoijat suosivat erittäin lyhyitä ilmauksia jossa esim. pilkulla
+ketjutetaan vaillinaisia lauseita, tämä jokseenkin toimii englanniksi muttei
+juurikaan suomeksi, yleensä kannattaa kirjoittaa auki jonkin sopivan konjunktion
+tms. kanssa, vaikkapa:
+
+> Ei voitu jatkaa ohjelman suorittamista, sillä muisti loppui kesken.
+
 
