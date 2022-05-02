@@ -135,6 +135,13 @@ Finnish u than English u in those words.
 
 ## Different words and grammars
 
+Monolingual people will often wonder if people proficient in languages have to
+think what they say in native language and translate it in their heads, I think
+for me the answer in English is a bit of that and a bit of natively speaking.
+For some words and structures I think my English will sound idiomatic without
+efforts but when something goes weird the underlying problem is often a too
+direct translation.
+
 Finnish and English grammars are quite far apart, when speaking spontaneously
 and without thinking it is not unusual to mix word orders and ignore other
 differences.
@@ -182,3 +189,22 @@ something like *they met **at the** restaurant*, but said *they met **in a**
 restaurant*, does the meaning change, did the listeners get what I meant, I'm
 not really sure.
 
+### Mismatching words
+
+Contrary to popular belief, words rarely translate 1:1 between languages, for
+most words it can be quite near but more often than not it is not. For example,
+one common thing I will say is either like "Germany is difficult, we should go
+French" like, the names of languages and countries in Finnish are 99 % the same,
+I am not consciously aware of the difference all the time. It is btw the same
+phenomenon when I mix up he and she, because there is no distinction in my
+language I do not keep the distinction in my active memory when talking and
+blurt out random choice.
+
+A lot of words, especially adjectives, occupy a part of scale or such a space,
+which is never a direct match but like 80 % overlap here and there. For example,
+the words *possibly*, *probably*, *surely*, *certainly*, etc, occupy a slice on
+the likelihood scale, which is not at all the same slice as their Finnish
+counterparts, so there will be a lot of suspicious usage for any foreign
+language speakers. It is also next to impossible to know for sure which of these
+words convey negative attitudes, ignorance or dismissal for a non-native
+speaker. Just to keep in mind.
