@@ -1,5 +1,12 @@
 # Flammie on reviewing academic work
 
+*This is not an official guideline for reviewing or anything but my personal
+notes, please see [ACL's
+guidelines](https://acl-org.github.io/policies/reviewers) and [last minute
+reviewing advice of ACL
+2017](https://acl2017.wordpress.com/2017/02/23/last-minute-reviewing-advice/)
+for serious advice for your reviews.*
+
 As a senior science making human, I spend as much time writing reviews in
 academic conferences as I do receiving them. As we all know, there are plenty of
 problems in the whole process still in 2020, but I try my best not to add to the
