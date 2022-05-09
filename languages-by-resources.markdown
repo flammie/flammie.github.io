@@ -54,7 +54,10 @@ As a summary:
 * ISO 639-3 table contains 7909 languages codes
 * top 64 languages or little less than 1 % have over 100 gigabytes of wikipedia
   data and should probably never be called *low-resource* (error margin: few of
-  these are suspicious and may be bot generated content)
+  these are suspicious and may be bot generated content, e.g. [cebuano wikipedia
+  is mostly bot-generated](https://en.wikipedia.org/wiki/Cebuano_Wikipedia),
+  h/t [*Unhammer* oni
+  twitter](https://twitter.com/unhammer/status/1523548322686205954))
 * top 135 languages or little less than 2 % have over 10 gigabytes of wikipedia
   data and need strong justification and further specification than just *low
   resourced*
