@@ -69,3 +69,46 @@ Bollmann (@mmbollmann) <a
 href="https://twitter.com/mmbollmann/status/1358535267024568324?ref_src=twsrc%5Etfw">February
 7, 2021</a></blockquote> <script async
 src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## Optional stuff / draft and cameraready versions
+
+Tex has lots of programming languagey stuff in it, but one of the most effective
+tricks is to use simple boolean variables to switch parts on and off
+(anonymisation, todos). The commands relevant are `\newif` and then `\ifX`,
+`\Xfalse` or `\Xtrue` and to end if block `\fi`:
+
+```tex
+\newif\iffinal
+\finalfalse
+
+\iffinal
+Author identities are XYZ
+\fi
+
+\iffinal
+Acknowledgments are not allowed in non-final version either
+\fi
+```
+
+If you work on academic stuff with double-blind reviews this is really useful,
+you can write final version whenever you want and hide it from submitted
+version and just switch it on by changing `\finalfalse` to `\finaltrue` after
+acceptance. At least I find it less anxious when I can write acknowledgments
+and project URLs and names when I feel like it.
+
+## Some non-ASCII hacks for problematic publishers
+
+By default you will want to use XeLaTeX or LuaLaTeX but if some publications
+really really feel strongly about using outdated systems you may not be able to
+typeset linguistics of non-English very easily. This trick works for ŧ and Ŧ
+that are usually impossible:
+
+```
+\newcommand{\samit}{\mbox{t\hspace{-.35em}-}} %\samit{}
+\newcommand{\samiT}{\mbox{T\hspace{-.5em}-}} %\samit{}
+```
+
+not sure whose the original trick is, I copied it from source codes of our North
+Sámi articles in the past. For many other letters you can of course use the old
+TeX codes like `\'{a}` or `\H{a}`, I think this might should work with `\tj` but
+I have no experiences of it actually working so.
