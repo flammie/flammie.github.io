@@ -5,6 +5,8 @@
 This is a personal github pages site for [Flammie on
 github](https://github.com/flammie).
 
+## Projects and open source work stuff things
+
 For the following github projects I also have gh-pages branches:
 
 * [Open morphology of Finnish](omorfi/)
@@ -21,7 +23,9 @@ github pages:
 * [Apertium Finnish–German resources](//apertium.github.io/apertium-fin-eng/)
 * [Apertium Finnish–Norwegian resources](//apertium.github.io/apertium-fin-nor/)
 
-Here is also a section for [essays, rants and such writeups](rants.html), where
+## Blogs, opinions and writeups
+
+There is also a section for [essays, rants and such writeups](rants.html), where
 I write things that are not quite well-formulated enough for academic short
 papers even but longer than tweets, you could call them blog posts but they kind
 of lack the temporal concept of blog postings somehow...
