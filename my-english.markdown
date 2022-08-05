@@ -132,6 +132,11 @@ merger](https://en.wikipedia.org/wiki/Cot%E2%80%93caught_merger) and
 Another fine xample is Irish u in pub, Dublin or even bus is rather closer to
 Finnish u than English u in those words.
 
+## beau etc.
+
+One thing that I will often miss if not concentrating is the */j/* sound in
+words like *beautiful*, so it turns out like *bootiful*. This sound actually
+appears a lot more in English than you'd think:
 
 ## Different words and grammars
 
