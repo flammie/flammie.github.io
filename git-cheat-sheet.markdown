@@ -47,3 +47,34 @@ $ git am --commiter-date-is-author-date < patch
 Yeah it's just a patch email, you can sed it if you want yay. H/t [Smar on stack
 overflow](https://stackoverflow.com/questions/1365541/how-to-move-some-files-from-one-git-repo-to-another-not-a-clone-preserving-hi/11426261#11426261)
 
+## Figure out why GPG signing does not work again
+
+Git is good at using gpg agent and deducing what key will sign emails even when
+you don't have stuff explicitly set up. Except when it doesn't. The magic spell
+to figure it out is just `GIT_TRACE=1` environment variable:
+
+```console
+$ GIT_TRACE=1 git commit stuff and files
+17:15:36.228515 git.c:418               trace: built-in: git commit
+hint: Waiting for your editor to close the file... 17:15:36.231567
+run-command.c:643       trace: run_command:
+GIT_INDEX_FILE=/home/flammie/github/apertium/apertium-fin-smn/.git/next-index-10865.lock
+vim /home/flammie/github/apertium/apertium-fin-smn/.git/COMMIT_EDITMSG
+17:15:41.001166 run-command.c:643       trace: run_command: gpg --status-fd=2
+-bsau 'Flammie A Pirinen <flammie@iki.fi>'
+error: gpg failed to sign the data
+fatal: failed to write commit object
+```
+
+You can nearly copy paste the gpg command line to figure out how to get it to
+work, maybe there is a typo in email, maybe gpg agent is acting up and it will
+automatically work after you sign one stdin or file.
+
+```console
+$ gpg -bsau 'Flammie A Pirinen <flammie@iki.fi>'
+testing
+-----BEGIN PGP SIGNATURE-----
+...
+```
+
+so it just worked here.
