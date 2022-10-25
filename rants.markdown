@@ -10,6 +10,8 @@ have found that unless I write down some of these thoughts that I have in my
 mind they will keep bothering my concentration (unless I debate about the topic
 with my colleagues or friends).
 
+This seems very unorganised lol.
+
 ## Linguistics, NLP and just language stuffs
 
 See also: [Flammie's academic works](/purplemonkeydishwasher/)
@@ -24,7 +26,7 @@ See also: [Flammie's academic works](/purplemonkeydishwasher/)
   in NLP
 * Essay on terms [morph and morpheme](morph-or-morpheme.html)
 * what does [academic English](academic-english.html) really mean?
-* [Potential cognates](cognate-collection.html) of mainly some Finnish words
+* [LIST: Potential cognates](cognate-collection.html) of mainly some Finnish words
 * [Note on terms *morpheme* and *morph*](morph-or-morpheme.html)
 * Notes on trying to [understand Flammie's English](my-english.html)
 * Personal notes on [how to review academic papers](reviewing-guidelines.html)
@@ -38,21 +40,42 @@ See also: [Flammie's academic works](/purplemonkeydishwasher/)
 * [*Flags are not languages* aka why are we still talking about this in
   2021](flags-are-not-languages.html)
 * [Finnish language and culture shocks](finnish-culture.html)
+* [Duolingo and language learning](duolingo.markdown), just a note on my usage,
+  not much linguistics or Computer-Aided Language-Learning POV
+* [English typography](english-typography-and-stuff.html) and pet peeves and
+  stuff
+* [Problem with first name genders in NLP](first-name-genders.html)
+* [Flags are not languages](flags-are-not-languages.html)
+* [What is the longest word](longest-word.html)
+* [HOWTO: reviewing articles](reviewing-guidelines.html)
+* [Separable verbs and stuff in NLP](separable-verbs.html)
+* [LIST: Weirdest English pronunciations](weirdest-english.markdown)
 
 ## Programming and computer stuffs
 
-See also: [Flammie’s dotfiles](/dotfiles/), [flammie's github](
+See also: [Flammie’s dotfiles](/dotfiles/), [flammie's
+github](https://github.com/flammie/)
 
-* [C++ is a bad bad language](cpp-fails.html)
+* [C++ is a bad bad language](cpp-fails.html), like my take on C++ FQA
+* [Code style guides and standards are often wrong](code-style-fails.markdown),
+  some specific critiques of specific code styles that promote unreadable code
 * [TeX cheat sheet](tex-cheat-sheet.html), things I have had to google more
   than once
 * [Git cheat sheet](git-cheat-sheet.html), things I have had to google more
   than once
+* [API Design](api-design.html), from point of a view of academic who had to use
+  really bad *libraries* with barely an *API*...
 
 ## Other stuff
 
 * [Telephone calls considered evil](telephones.html)
 * [My Erdős number](erdos-number.html)
+* [Academic travelling](academic-travelling.html)
+* [Capitalism](capitalism-fails.html)
+* [Climate change](climate-change.html)
+* [How many languages I can](how-many-languages-you-can.html) an FAQ
+* [I hate having opinion about politics](politics.html)
+* [Toxicity and Toxic-ity in Helsinki](toxicity.html)
 
 -----
 
