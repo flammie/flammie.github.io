@@ -26,10 +26,10 @@ probably particularly organic chemistry (I am not a chemist), you can describe
 like proteins and complex poly by putting the components together as a word;
 they usually contain components like numeric prefixes bi, tri, but also
 numbering systems like meth for one, meth for two etc. and interleave those with
--yle, -ene, -in, etc. Or, just look at [IUPAC nomenclature of organic
-chemistry.](https://en.wikipedia.org/wiki/IUPAC_nomenclature_of_organic_chemistry)
-Incidentally found this on: [Titin–Linguistic
-significance](https://en.wikipedia.org/wiki/Titin#Linguistic_significance).
+-yle, -ene, -in, etc. Or, just look at [IUPAC nomenclature of organic chemistry
+(Wikipedia)](https://en.wikipedia.org/wiki/IUPAC_nomenclature_of_organic_chemistry).
+Incidentally found this on: [Titin#Linguistic significance
+(Wikipedia)](https://en.wikipedia.org/wiki/Titin#Linguistic_significance).
 
 ## Most other languages
 
@@ -50,3 +50,11 @@ follow a new system: every thousand multiplier we formulate new number by a
 prefix mi-, bi-, tri-, etc. and then -illion, and in some languages alternating
 with -illiard. I haven't checked with the standards but I assume the prefix
 system loops back to millions itself, being infinite.
+
+## References
+
+I kind of started writing this article before viewing this youtube video, but
+got up to finishing it because seeing it and he explains it very neatly:
+
+* [The World's longest words (English & beyond)
+   (Youtube)](https://www.youtube.com/watch?v=y9iJXvjV2w4)

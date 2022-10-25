@@ -39,3 +39,12 @@ community and age group. Crossing some country borders, going 100 years to the
 past, the statistics get flipped almost more often than not. And that doesn't
 even begin to take into account how gender binary has become more outdated as of
 late.
+
+## List of Names
+
+This is just a short collection of names that have broken my machine
+translations:
+
+* Toni (female in English, male in Finnish)
+* Janne (female in Norwegian, male in Finnish)
+

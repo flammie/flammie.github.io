@@ -37,3 +37,34 @@ specifically useful for some languages, these are in android play stores and
 also similar for apple things. I do not use mobile phones to write much at all
 so this is generally not a huge issue either way except when I need to use
 mobile phone for booking / banking / stuff
+
+## Cheat sheets by language
+
+### Most common
+
+the ´ is on most keyboards left of backspace. The ¨ is left of return or
+thereabouts.
+
+* á = ´ + a
+* à = shift ´ + a
+* ï = ¨ + i (because ä and ö are on the keyboard already)
+* â = shift ¨ + a
+* ã = AltGr ¨ + a
+* ā = shift AltGr ¨ + a
+
+### Hungarian
+
+* ő = ˝ + o = AltGr å + o
+
+### Saami languages
+
+* đ = - + d = AltGr § + d
+* ŧ = - + t
+* ŋ = AltGr ŋ
+
+### Scandinavian
+
+* æ = AltGr ä
+* ø = AltGr ö
+* å is on Finnish keyboard for some reason...
+

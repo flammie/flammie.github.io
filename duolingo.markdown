@@ -52,7 +52,11 @@ This is my method for learning languages, has worked with: *German* and
 1. Don't cheat by turning off microphone and listening exercises, you need to
    learn to read, understand what is spoken to you, and to pronounce, in order
    to learn a language.
+1. If something is strange, read the comments and report, there's a lot of bad
+   English and wrong hints and stuff in duolingo
 
 Some of this may change everytime duolingo changes stuff.
 
-
+In the end of the day though, duolingo is just a tool to build some basic
+vocab. After few weeks you'll have to start doing something on top, read the
+news or watch a tv without subtitles, talk to people or such.

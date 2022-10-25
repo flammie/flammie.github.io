@@ -8,7 +8,8 @@ I have not researched the backgrounds of these, they are just educated guesses.
 I only collect word pairs and groups that seem interesting, not everything I
 see, e.g. *internet* will not be in the list even though it naturally is
 copied from the same source in 99 % of the world languages. I might make another
-list automatedly later though.
+list automatedly later though. *Also*, some that turn out to be not cognates at
+all are always good help to remember the words as language learner.
 
 
 | Finnish | English | German | Norwegian | Swedish | Hungarian | Russian |
