@@ -36,7 +36,8 @@ have not thoroughly researched but heard third hand information of of is, the
 courses are made by *volunteers*, who may not receive much of duolingo's profits
 at all and may not have any understanding of language teaching / pedagogy, and
 this is quite apparent in some courses (admittedly most bad courses are marked
-*beta*).
+*beta*). By the way if you know what kind of deal Duolingo has with course
+admins I would be interested to know some details.
 
 ## Howto: use duolingo effectively
 
@@ -60,3 +61,39 @@ Some of this may change everytime duolingo changes stuff.
 In the end of the day though, duolingo is just a tool to build some basic
 vocab. After few weeks you'll have to start doing something on top, read the
 news or watch a tv without subtitles, talk to people or such.
+
+## Problems
+
+Duolingo has several quite bad problems that make it less useful than it could
+be. One of the biggest one is that it is mostly only available in English.
+English is quite unusual language and doesn't resemble many of the languages,
+for most of us it isn't a native language. Many of the exercises are translation
+exercises and the system has very simple definition of correct translation; it
+has a list of acceptable translations and some support for typos. If you
+rephrase too much it counts as a fail. If you miss an article or use combination
+of articles (that is *a* and *the*) that is not one of the "correct" ones, you
+lose a point; but most languages do not have same articles or articles at all.
+If you use *doing* form instead of *do* you lose a point but almost no language
+besides English has this kind of -ing forms, so it's very arbitrary when the ing
+forms are accepted or required. Some language courses favour having most literal
+and word-to-word translations retaining all grammar, others have idiomatic; some
+like Hungarian course have outright ungrammatical and unreadable "English", not
+sure whether the course makers didn't really know English or tried too hard to
+retain all the nuances of Hungarian there.
+
+Because the exercises are not really ordered well, you are often listening or
+writing words you haven't learnt or given the complex sentences before simple
+ones. Also the themes of the exercises (in 2022 version at least) do not always
+relate to the exercises you get at all, you could have like kitchen as a theme
+and then have a sentence about animals in forest or whatnot, or even worse, a
+grammar theme that has zero examples of the grammar topic, sometimes it seems
+like someone who just misunderstood grammar really badly has put the sentences
+there, like having perfect participle sentences but all examples are of English
+words that kind of look perfect particple forms but are just adjecives in the
+language you are learning. Furthermore, the grammar sections come unexplained
+and without clarifications, even when I am a trained linguist, it is often hard
+for me to comprehend what duolingo means when it teaches me "Progr. cont." or
+some other cryptic thing. In the web version only, one can open an explanation
+to the category, which may or may not be filled with some words from the course
+maker of what they meant with the section, which may reveal how they
+misunderstood this grammar topic.
