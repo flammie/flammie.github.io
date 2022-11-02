@@ -64,8 +64,8 @@ of lack the temporal concept of blog postings somehow...
 |          | tommi.pirinen@iki.fi (work, but permanent) |
 |          | tommi.pirinen@uit.no (work) |
 |          | ffflammie@gmail.com (Google stuff) |
-| IRC | [Flammie on Freenode](irc://Freenode/Flammie?isnick) |
-| | [Web IRC on Freenode](https://webchat.freenode.net) |
+| IRC | [Flammie on libera.chat](irc://libera/Flammie?isnick) |
+|     | [Flammie on OFTC](irc://OFTC/Flammie?isnick) |
 | matrix | @Flammie:matrix.org |
 | Twitter | [ffFlammie](https://twitter.com/ffFlammie) |
 | Linkedin | [tommi-pirinen](https://www.linkedin.com/in/tommi-pirinen-6182127/) |
@@ -77,6 +77,7 @@ of lack the temporal concept of blog postings somehow...
 | Skype | *search* |
 | Zoom | *search* |
 | ~~WhatsApp~~ | **Never used** |
+| mastodon | <a rel="me" href="https://mastodontti.fi/@flammie">Mastodon</a> |
 | Mail | *ask for street address* |
 | | NO-9000 |
 | | Noreg |
