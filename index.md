@@ -77,7 +77,8 @@ of lack the temporal concept of blog postings somehow...
 | Skype | *search* |
 | Zoom | *search* |
 | ~~WhatsApp~~ | **Never used** |
-| mastodon | <a rel="me" href="https://mastodontti.fi/@flammie">Mastodon</a> |
+| Mastodon | <a rel="me" href="https://mastodon.online/@flammie">Mastodon</a> |
+|          | <a rel="me" href="https://mastodontti.fi/@flammie">Mastodon</a> |
 | Mail | *ask for street address* |
 | | NO-9000 |
 | | Noreg |
