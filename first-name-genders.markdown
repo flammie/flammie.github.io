@@ -47,4 +47,5 @@ translations:
 
 * Toni (female in English, male in Finnish)
 * Janne (female in Norwegian, male in Finnish)
+* Aki (female in Japanese, male in Finnish)
 
