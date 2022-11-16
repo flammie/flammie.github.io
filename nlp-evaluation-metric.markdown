@@ -93,3 +93,47 @@ of F score with parametre β is *F_β = (1+β²) × (P×R)/((β²×P) + R)* wher
 analyse your scores in your article didn't you?) of your F scores in your
 article, do consider if you meant to use β=0.5 or β=2 for example instead of
 just explaining why it went off.
+
+One easy way to consider how to scale F score and also how to evaluate your
+results, is to actually think about the *risks* of the errors in application,
+this is usually something you learn in the eval. 101 course anywhere but it
+seems to be easy to forget. To have an extremes examples, a machine translation
+system that generates wrong numbers for instructions to use medication or
+perform in medical emergencies is a *high risk* error whereas machine
+translation for MTV's/Netflix's new reality show subtitles that are hopefully at least
+reviewed by a human translator are *low risk*. Generating stories about unicorns
+and pictures of green monkeys eating purple bananas are low risk, whereas
+claiming to "Autocorrect" someone's spelling or even grammar can be quite high
+risk to a non-majority language!
+
+## Application specific things
+
+Different applications will have different definition of correct and also within
+single application the ideas will vary between researchers and research
+groups. I am not expert on all NLP applications although I have worked on many
+directly and indirectly. In general though I guess I can give an idea and also
+as a user.
+
+First of all the definition of correctness and whether to accept
+multiple correct answers, I will usually take the approach that ideal NLP
+software should be able to theorise about potential possibilities that can be
+explained rather than merely being able to guess 1 best reading without
+explaining why. This is something that used to be intuitively a good thing,
+computers would be good to go at mad lengths to find combinations of unlikely to
+enumerate, this is the benefit and problem of the rule-based approaches to
+natural language processing. This is very different to statistical and also
+neural network approaches to NLP, they are very good at making hard decisions
+with little evidence in sight, but if you ask them to list all possible
+interpretations, they usually start to give actually impossible ones to the
+extent that they wouldn't make sense or cannot be explained anymore. For this
+reason, I believe, most tasks have been artificially restricted to pretend that
+there is one correct reading / analysis / whatever, to support the system in
+use.
+
+### Spell-Checking and Correction
+
+### Morphological analysis
+
+### Machine Translation
+
+
