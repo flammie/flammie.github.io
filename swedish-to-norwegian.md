@@ -28,6 +28,7 @@ for my RBMT work and linguistics as well.
 | börjä | begynne | start |
 | brukar | pleier | used to (do), (do) usually |
 | stänger | lukker | close |
+| disk | oppvask | dishes (Fin: *tiski*) |
 
 Most of the Swedish words are more or less understood in Norway, sometimes with
 more or less specific restrictions, e.g. instead of *eat* it might be
