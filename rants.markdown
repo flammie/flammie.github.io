@@ -33,10 +33,6 @@ See also: [Flammie's academic works](/purplemonkeydishwasher/)
 * [Translating Swedish to Norwegian](swedish-to-norwegian.html), a list of
   actual differences between the two *dialects*
 * [Zeros considered harmful in NLP](zerostuff-in-nlp.html)
-* Twitter and comp.ling. scene on [*Low-resource*
-  languages](what-is-low-resource-language.html)
-* Twitter and comp.ling. scene on [*Morphologically complex*
-  languages](what-is-morphologically-complex-language.html)
 * [*Flags are not languages* aka why are we still talking about this in
   2021](flags-are-not-languages.html)
 * [Finnish language and culture shocks](finnish-culture.html)
@@ -45,11 +41,11 @@ See also: [Flammie's academic works](/purplemonkeydishwasher/)
 * [English typography](english-typography-and-stuff.html) and pet peeves and
   stuff
 * [Problem with first name genders in NLP](first-name-genders.html)
-* [Flags are not languages](flags-are-not-languages.html)
 * [What is the longest word](longest-word.html)
 * [HOWTO: reviewing articles](reviewing-guidelines.html)
 * [Separable verbs and stuff in NLP](separable-verbs.html)
-* [LIST: Weirdest English pronunciations](weirdest-english.markdown)
+* [LIST: Weirdest English pronunciations](weirdest-english.html)
+* [Ambiguity in languages and NLP](ambiguity.html)
 
 ## Programming and computer stuffs
 
@@ -75,7 +71,7 @@ github](https://github.com/flammie/)
 * [Climate change](climate-change.html)
 * [How many languages I can](how-many-languages-you-can.html) an FAQ
 * [I hate having opinion about politics](politics.html)
-* [Toxicity and Toxic-ity in Helsinki](toxicity.html)
+* [Toxicity and Toxic -ity in Helsinki](toxicity.html)
 
 -----
 

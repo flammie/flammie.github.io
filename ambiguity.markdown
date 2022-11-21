@@ -41,3 +41,4 @@ could say that since adessive is used as adverbial case for the instrument of
 seeing you can interpret it back as standing on telescope, which however is not
 as likely based on our common world knowledge, lol.
 
+
