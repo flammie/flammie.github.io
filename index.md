@@ -53,19 +53,21 @@ of lack the temporal concept of blog postings somehow...
 
 # Contact information / social media
 
+[Howto contact](contact.html)
+
 * Prefer email, chats, social media,
 * no voice chats or video conferences unless necessary,
-* no telephone calls,
-* if office door is open knock in
+* no telephone calls
+* if the office door is ajar, knock in
 
 | *Contact* | *Address (link)* |
 | :-------  | :--------------  |
 | *E-Mail* | flammie@iki.fi (not work) |
-|          | tommi.pirinen@iki.fi (work, but permanent) |
 |          | tommi.pirinen@uit.no (work) |
-|          | ffflammie@gmail.com (Google stuff) |
+|          | ffflammie@gmail.com (Google invites etc.) |
 | IRC | [Flammie on libera.chat](irc://libera/Flammie?isnick) |
 |     | [Flammie on OFTC](irc://OFTC/Flammie?isnick) |
+| github | [Flammie on github](https://github.com/flammie/) |
 | matrix | @Flammie:matrix.org |
 | Twitter | [ffFlammie](https://twitter.com/ffFlammie) |
 | Linkedin | [tommi-pirinen](https://www.linkedin.com/in/tommi-pirinen-6182127/) |
@@ -79,9 +81,9 @@ of lack the temporal concept of blog postings somehow...
 | ~~WhatsApp~~ | **Never used** |
 | Mastodon | <a rel="me" href="https://mastodon.online/@flammie">Mastodon</a> |
 |          | <a rel="me" href="https://mastodontti.fi/@flammie">Mastodon</a> |
-| Mail | *ask for street address* |
-| | NO-9000 |
-| | Noreg |
+| Mail | UiT Arctic University of Tromsø |
+| | NO-9037 |
+| | PO Box 6050  |
 
 
 
@@ -89,5 +91,7 @@ of lack the temporal concept of blog postings somehow...
 
 If you need to schedule things with me, check [my google
 calendar](https://calendar.google.com/calendar/u/0?cid=ZmZmbGFtbWllQGdtYWlsLmNvbQ).
+or for work stuff, [my Microsoft
+Booking](https://outlook.office.com/bookwithme/user/f297d3e883d546bc8ad906c68c3f28c7@uit.no?anonymous&ep=plink)
 
 <!-- vim: set ft=markdown -->
