@@ -24,6 +24,36 @@ English-speaking world and culture, so they get skewed a bit in terms of years
 and specifics applied to people not from UK and Ireland, USA and maybe Australia
 and New Zealand.
 
+One of the common features in these generational debates that is usually the
+starting point is the kind of things that older generations joke about that
+younger generations find more harmful. The phrases to look out for in internet
+discussion are like: *poltical correctness has gone too far* (boomers and gen x
+about gen x and millennials) or *woke is gone too far* or *virtue signalling*
+(boomers, gen x and elder millennials about millennials, gen z and gen alpha) or
+just *you cannot say anything these days*, *everyone's too sensitive* (everyone
+about everyone). The main issue with this is that, of course you are rarely if
+ever in the right when saying such things, there's nothing good in insulting and
+antagonising other people and you shouldn't feel entitled to that. Perhaps a
+point can be made of humor that is based on being offensive but it really only
+works within a context and if you cannot restrict your context then you should
+avoid it altogether.
+The reason why I put **Says** up in the summary table below is because indeed
+the most pertinent thing between generations is what slurs they feel entitled to
+say, what way they feel that insulting or demeaning other people is ok.
+Naturally we can understand that it is never nice to make fun of someone else in
+that way, that is precisely why this mind-boggling gap between generations is
+what I try to rationalise myself about in this rant. Here's a list of things
+I've come up which are kind of in order of ages as well:
+
+* male chauvinism, misogyny
+* racism
+* homophobia
+* transphobia
+* fat-shaming
+* queerphobia (broadly, against non-binaries etc., not including lgbt)
+* slut-shaming
+* ...
+
 Here's a helpful summary table that I open up in following sections:
 
 | Name | Birth years | Grown up with | Says | Gays |
@@ -49,6 +79,7 @@ gen-X. One of the things that is curious in comparing the generations is, of
 course gays and other sexual and gender representations have been there forever,
 it's almost merely the words used to describe them that changed, and the legal
 status in society, that makes the difference.
+
 
 ## Baby boomers
 
