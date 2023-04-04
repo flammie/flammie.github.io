@@ -103,7 +103,7 @@ really really feel strongly about using outdated systems you may not be able to
 typeset linguistics of non-English very easily. This trick works for ŧ and Ŧ
 that are usually impossible:
 
-```
+```tex
 \newcommand{\samit}{\mbox{t\hspace{-.35em}-}} %\samit{}
 \newcommand{\samiT}{\mbox{T\hspace{-.5em}-}} %\samit{}
 ```
@@ -112,3 +112,22 @@ not sure whose the original trick is, I copied it from source codes of our North
 Sámi articles in the past. For many other letters you can of course use the old
 TeX codes like `\'{a}` or `\H{a}`, I think this might should work with `\tj` but
 I have no experiences of it actually working so.
+
+
+Sometimes when conference or publication has their own style that requires use
+of ancient tex versions you can possibly work around them by commenting out
+`\usepackage{times}` and using fontspec with mainfont *Times New Roman* instead,
+in most cases the difference will be unnoticeable to me, however, some
+conference organisers or their reviewers will be eager to point out that this is
+not exactly the same font as in template and your paper will be rejected.
+Chances are you didn't really want to publish in a conference or series that
+doesn't support for using more than European alphabet anyways.
+
+```tex
+%\usepackage{times}
+\usepackage{fontspec}
+\setmainfont{Times New Roman}
+\usepackage{url}
+\usepackage{hyperref}
+\usepackage{latexsym}
+```
