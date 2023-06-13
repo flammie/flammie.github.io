@@ -21,10 +21,11 @@ See also: [Flammie's academic works](/purplemonkeydishwasher/)
 * Rant on the misguided concept of [Academic English](academic-english.html)
 * *WIP*: survey on usage of the word
   [Low-resource](what-is-low-resource-language.html) in NLP
+    * *WIP*: [list of languages of world sorted by freely avaiable corpus
+    resources](languages-by-resources.html)
 * *WIP*: survey on usage of the expression
   [Morpologically complex](what-is-morphologically-complex-language.html)
   in NLP
-* Essay on terms [morph and morpheme](morph-or-morpheme.html)
 * what does [academic English](academic-english.html) really mean?
 * [LIST: Potential cognates](cognate-collection.html) of mainly some Finnish words
 * [Note on terms *morpheme* and *morph*](morph-or-morpheme.html)
