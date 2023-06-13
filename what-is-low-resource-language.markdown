@@ -1,4 +1,4 @@
-# Low-Resource Languages in Natural Language Processing
+# Flammie lists: Low-Resource Languages in Natural Language Processing
 an informal survey into meanings of the word 'low-resource' in context of NLP.
 
 There's been a few twitter and after-the-conference-beer-session debates about
@@ -139,6 +139,11 @@ too, so it is mainly a low-resource domains?
 while motivation and data selection is understandable, none of the languages are
 low-resource and perhaps typological diversity is not that large if all
 languages are in same typological sub-group.
+
+## EAMT 2023
+
+* Found at: <https://twitter.com/Maria_doCampoB/status/1668250738277990402/photo/1>
+* Languages: English, Bengali, Hindi, Swahili
 
 ## Statistics per language and expression
 
