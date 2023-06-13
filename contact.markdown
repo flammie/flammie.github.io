@@ -1,20 +1,23 @@
-# How-to contact me
+# Flammie’s How-to contact me
 
-I wrote this summary on the main page:
+This page is part of my rant essay collection but first a short practical
+summary for anyone looking for informations:
 
 * Prefer email, chats, social media,
 * no voice chats or video conferences unless necessary,
 * no telephone calls,
 * if office door is open knock in
+* work stuff is checked during office hours (Oslo timezone usually)
 
 | *Contact* | *Address (link)* |
 | :-------  | :--------------  |
-| *E-Mail* | flammie@iki.fi (not work) |
-|          | flammie.pirinen@uit.no (work) |
-|          | ffflammie@gmail.com (Google invites etc.) |
+| *E-Mail* | flammie@iki.fi |
+|  (work)  | flammie.pirinen@uit.no |
+|  (google) | ffflammie@gmail.com (Google apps only¹) |
 | IRC | [Flammie on libera.chat](irc://libera/Flammie?isnick) |
 |     | [Flammie on OFTC](irc://OFTC/Flammie?isnick) |
 | github | [Flammie on github](https://github.com/flammie/) |
+| Zulip | [GiellaLT Zulip (work)](https://giellalt.zulipchat.com) |
 | matrix | @Flammie:matrix.org |
 | Twitter | [ffFlammie](https://twitter.com/ffFlammie) |
 | Linkedin | [tommi-pirinen](https://www.linkedin.com/in/tommi-pirinen-6182127/) |
@@ -28,10 +31,18 @@ I wrote this summary on the main page:
 | ~~WhatsApp~~ | **Never used** |
 | Mastodon | <a rel="me" href="https://mastodon.online/@flammie">Mastodon</a> |
 |          | <a rel="me" href="https://mastodontti.fi/@flammie">Mastodon</a> |
-| Mail | UiT Arctic University of Tromsø |
+| Mail (work) | UiT Arctic University of Tromsø |
 | | NO-9037 |
 | | PO Box 6050  |
 
+¹ if you need to send an invite to a google-hosted app: Google calendar, Google
+forms, Google Plus, Google Duo, Google Docs, Google Happy Beer Hour or
+such, use this email address, email sent to this address goes to spam folder.
+
+* * *
+
+Traditionally I would've told everyone to use email for 99 % of things or
+IRC for real time discussions and it was good enough.
 
 This was a good standard but has been breaking down as of late. Ironically, in
 times of where we are most reachable, most online, I have much less capability
