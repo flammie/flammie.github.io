@@ -145,6 +145,13 @@ languages are in same typological sub-group.
 * Found at: <https://twitter.com/Maria_doCampoB/status/1668250738277990402/photo/1>
 * Languages: English, Bengali, Hindi, Swahili
 
+
+## CML-TTS A Multilingual Dataset for Speech Synthesis in Low-Resource Languages
+
+* Found at: <https://arxiv.org/abs/2306.10097>
+* Dutch, French, German, Italian, Portuguese, Polish, and Spanish
+
+
 ## Statistics per language and expression
 
 Low[- ]?resource(d):
