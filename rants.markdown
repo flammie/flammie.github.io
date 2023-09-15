@@ -72,7 +72,7 @@ github](https://github.com/flammie/)
 * [Climate change](climate-change.html)
 * [How many languages I can](how-many-languages-you-can.html) an FAQ
 * [I hate having opinion about politics](politics.html)
-* [Toxicity and Toxic -ity in Helsinki](toxicity.html)
+* [Toxicity and Toxic -ity and some thoughts](toxicity.html)
 
 -----
 
