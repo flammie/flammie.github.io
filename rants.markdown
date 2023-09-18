@@ -47,6 +47,8 @@ See also: [Flammie's academic works](/purplemonkeydishwasher/)
 * [Separable verbs and stuff in NLP](separable-verbs.html)
 * [LIST: Weirdest English pronunciations](weirdest-english.html)
 * [Ambiguity in languages and NLP](ambiguity.html)
+* [Rules, statistics and neural networks are just tools and you need them all
+   to do good NLP, click here to find out why?](rules-statsistics-neural.html)
 
 ## Programming and computer stuffs
 
@@ -62,6 +64,8 @@ github](https://github.com/flammie/)
   than once
 * [API Design](api-design.html), from point of a view of academic who had to use
   really bad *libraries* with barely an *API*...
+* [Time and space complexity common misunderstandings and
+  stuff](big-o-and-complexity-fails.html)
 
 ## Other stuff
 
@@ -73,6 +77,8 @@ github](https://github.com/flammie/)
 * [How many languages I can](how-many-languages-you-can.html) an FAQ
 * [I hate having opinion about politics](politics.html)
 * [Toxicity and Toxic -ity and some thoughts](toxicity.html)
+* [Elder millennial vs. generations: X, y, Z, alpha and do we need
+  them](human-generations.html)
 
 -----
 
