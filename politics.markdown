@@ -20,14 +20,15 @@ out of me.
 
 There are of course things that are political and I do have a kind of opinion
 that are important for my life, minority languages already mentioned. Here's a
-short list of opinions I might defend when in group of friends / drunk:
+short list of opinions I might defend when in group of friends / drunk,
+unpopular opinions if you may, in contemporary internet usage:
 
 * Capitalism especially in its current form is a total failure, I wrote a
   specific rant about it as well on this site, the gap between rich and the poor
   is the worst ever, the products and services we get are not best quality they
   can be, etc. etc.,
 * r/fuckcars: the older I get the more I realise car culture has destroyed our
-  cities, car drivers murder more people than any other human cause and cause
+  cities, car drivers murder more people than any other human cause and create
   more pollution that could be avoided
 * relatedly I do get more eco conscious getting older in the current climate
   crisis, go support extinction rebellion in that, their mission statement is
@@ -40,4 +41,9 @@ short list of opinions I might defend when in group of friends / drunk:
 * lgbtqia+ movement does lead to better experience for everyone, we are on track
   of getting rid of toxic gender roles, allowing people to dress like they want
   and talk like they want, everyone benefits it's just that simple
+* many religions are not compatible with modern societies, seriously, if you
+  believe in hurting, slaving or killing people of different genders, sexual
+  orientations or other religions it's just not ok, yes you can modernise your
+  religion by cherry-picking your holy books, but that's rather untrustworthy
+  and unscaleable.
 * ...
