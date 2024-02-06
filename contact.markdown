@@ -28,9 +28,10 @@ summary for anyone looking for informations:
 | Telegram | *search* |
 | Skype | *search* |
 | Zoom | *search* |
-| ~~WhatsApp~~ | **Never used** |
+| ~~WhatsApp~~ | **???** |
 | Mastodon | <a rel="me" href="https://mastodon.online/@flammie">Mastodon</a> |
 |          | <a rel="me" href="https://mastodontti.fi/@flammie">Mastodon</a> |
+| bluesky | [@flammie.name](https://bsky.app/profile/flammie.name) |
 | Mail (work) | UiT Arctic University of Tromsø |
 | | NO-9037 |
 | | PO Box 6050  |
