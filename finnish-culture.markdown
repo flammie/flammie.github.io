@@ -81,3 +81,23 @@ If you are trying to make things sexual by just being nude you probably will
 fail with a Finn. If you go to a Finnish sauna you might see nude people
 enjoying the sauna and no sex. It's actually too hot for sex in proper sauna
 anyways.
+
+## Looking into eyes or smiling
+
+There is a huge difference in western cultures into what is considered as a norm
+when it comes to looking at other people, looking into their eyes specifically
+and smiling at them. People who come from the English speaking world often think
+that their way is the gold standard and everything else is rude. This means, in
+public you are not allowed to look at other people for more than maybe a second,
+and if they notice you looking at them you are required to whip your head into
+other direction within a millisecond, anything else would be rude and creepy.
+Finnish people in Helsinki area follow this guideline quite a bit I feel. In
+east Finland it didn't used to be like that, you can look at people in the
+public and when they notice you looking you smile and/or nod. And that is
+polite.
+
+Links:
+* [my (first) post on reddit about
+   it](https://www.reddit.com/r/Norway/comments/17wiwr9/idk_why_people_say_norwegians_are_introvert/k9i5h0l/?context=3)
+* [about smiling in
+   r/Norway](https://www.reddit.com/r/Norway/comments/1al24xd/about_smiling/)
