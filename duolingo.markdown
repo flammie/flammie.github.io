@@ -1,5 +1,12 @@
 # Flammie on *Duolingo*
 
+**NB: duolingo changes all the time so anything written here can be outdated. In
+somewhere around 2023 duolingo disabled discussions and grammar notes so it's
+always getting worse and less useful. Also in 2023 duolingo laid off a lot of
+humans to begin to use AI to make these courses so we can only expect it to be
+much much worse in near future. If you can use real courses made by professional
+teachers it is usually much better than supporting duolingo.**
+
 Duolingo is a language learning app in 2000's. It is quite simple, in that it
 only features few very basic language tests. It has mobile app and a browser
 app, but I think the mobile app is the popular one and true to early 2000's it
@@ -12,8 +19,8 @@ boards against friends along the way is a good thing.
 Like I said, Duolingo has only few types of basic exercises most of which are
 familiar from schoolbooks etc. At the moment there is:
 
-1. Match word in *teaching language* (usually English, I may call this support
-   language in this rant too) to word in target language *and a picture*, this
+1. Match word in *teaching language* (usually English, I use the term *support
+   language* in this rant too) to word in target language *and a picture*, this
    is often first exercise to teach a new word
 1. Translate a sentence, on a mobile app you have to just arrange the words in
    order, and there are few extra words to trick you. This practice goes both
@@ -24,7 +31,8 @@ familiar from schoolbooks etc. At the moment there is:
 1. match words 5×2
 1. listen and type (if you have audio output)
 1. speak (if you have a microphone)
-1. Fill in one missing word in sentence or discussion, multiple choice
+1. Fill in one missing word in sentence or discussion, multiple choice (also
+   known as *cloze*)
 
 Most of these are exactly what you get in text books if you studied languages at
 school.
@@ -46,15 +54,17 @@ This is my method for learning languages, has worked with: *German* and
 
 1. Use desktop version
     1. Use keyboard, not word bank
-    1. Read the hints / grammar
+    1. ~~Read the hints / grammar~~ Duolingo has removed most of the grammar
+       notes and hints in 2023
 1. Set goals and stick to them (50 xp per day, 14+ streak) if you need to rest
    use amulets instead of toxic mobile gaming style *checkin to do 1 xp to
    keep streak* bs that's no good for your learning
 1. Don't cheat by turning off microphone and listening exercises, you need to
    learn to read, understand what is spoken to you, and to pronounce, in order
    to learn a language.
-1. If something is strange, read the comments and report, there's a lot of bad
-   English and wrong hints and stuff in duolingo
+1. If something is strange, ~~read the comments~~ and report, there's a lot of
+   bad English and wrong hints and stuff in duolingo. In 2023 duolingo has also
+   removed discussions so there's no way to understand broken solutions anymore.
 
 Some of this may change everytime duolingo changes stuff.
 
@@ -97,3 +107,9 @@ some other cryptic thing. In the web version only, one can open an explanation
 to the category, which may or may not be filled with some words from the course
 maker of what they meant with the section, which may reveal how they
 misunderstood this grammar topic.
+
+The system doesn't really support idioms and multiword expressions, but they pop
+up in the exercises without any explanations. You can recognise this when the
+correct solution has a lot of words which are not suggested when you try to
+hover over words of the sentence to find single word translations. This is super
+frustrating and pedagogically very terrible and outright harmful for learning.
