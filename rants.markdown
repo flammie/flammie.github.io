@@ -69,6 +69,10 @@ github](https://github.com/flammie/)
 
 ## Other stuff
 
+More of everyday things, often inspired by debates in reddit or quora outside
+science topics.
+
+* [Finnish language and culture shocks](finnish-culture.html)
 * [Telephone calls considered evil](telephones.html)
 * [My Erdős number](erdos-number.html)
 * [Academic travelling](academic-travelling.html)
