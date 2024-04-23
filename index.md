@@ -95,4 +95,16 @@ calendar](https://calendar.google.com/calendar/u/0?cid=ZmZmbGFtbWllQGdtYWlsLmNvb
 or for work stuff, [my Microsoft
 Booking](https://outlook.office.com/bookwithme/user/f297d3e883d546bc8ad906c68c3f28c7@uit.no?anonymous&ep=plink)
 
+# Testing Google's trackers here:
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PW6HR9NHNM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-PW6HR9NHNM');
+</script>
+
 <!-- vim: set ft=markdown -->
