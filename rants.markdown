@@ -8,7 +8,8 @@ work-in-progress, this whole site is 50-50 for me to dump my brains onto vs.
 actually providing answers and information to people on interesting things. I
 have found that unless I write down some of these thoughts that I have in my
 mind they will keep bothering my concentration (unless I debate about the topic
-with my colleagues or friends).
+with my colleagues or friends). In 2020s I also post these or summaries thereof
+onto [my substack](https://flammie.substack.com/).
 
 This seems very unorganised lol.
 
