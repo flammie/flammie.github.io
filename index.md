@@ -85,7 +85,7 @@ of lack the temporal concept of blog postings somehow...
 | Mail | UiT Arctic University of Tromsø |
 | | NO-9037 |
 | | PO Box 6050  |
-
+| Office | [UiT Tromsø, HSK, A3024](https://en.uit.no/ansatte/person?p_document_id=682451&p_dimension_id=210121#tab-item-4) |
 
 
 # Calendar
