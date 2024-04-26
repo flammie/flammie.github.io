@@ -39,13 +39,19 @@ school.
 
 Duolingo is a for-profit company which is problematic from few aspects. It has
 to prioritise customer retention over effective learning. It has to sell
-*duolingo plus* and push ads. Also one of the more problematic things which I
-have not thoroughly researched but heard third hand information of of is, the
-courses are made by *volunteers*, who may not receive much of duolingo's profits
-at all and may not have any understanding of language teaching / pedagogy, and
-this is quite apparent in some courses (admittedly most bad courses are marked
-*beta*). By the way if you know what kind of deal Duolingo has with course
-admins I would be interested to know some details.
+*~~duolingo plus~~ Super Duolingo* and push ads. If you don't pay, your studying
+will literally be interrupted by a voice that says "people who pay are five
+times more likely to finish their courses", how's that for putting money before
+the "noble cause" of teaching people languages, literally making it worse for
+free users on purpose.
+
+Also one of the more problematic things which I have not thoroughly researched
+but heard third hand information of of is, the courses are made by *volunteers*,
+who may not receive much of duolingo's profits at all and may not have any
+understanding of language teaching / pedagogy, and this is quite apparent in
+some courses (admittedly most bad courses are marked *beta*). By the way if you
+know what kind of deal Duolingo has with course admins I would be interested to
+know some details.
 
 ## Howto: use duolingo effectively
 
