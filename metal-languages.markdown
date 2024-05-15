@@ -37,6 +37,8 @@ links are to WikiPedia and youtubes as well.
     [Tengger Cavalry on Metal Archives](https://www.metal-archives.com/bands/Tengger_Cavalry/3540302366)
     1. **HU**:
     [The HU on WikiPedia](https://en.wikipedia.org/wiki/The_Hu)
+1. Botswana?:
+    1. Skinflint: https://www.youtube.com/watch?v=IcPLcjnS2iM
 1. Hungarian:
     1. **Dalriada**:
     [Dalriada on Metal Archives](https://www.metal-archives.com/bands/Dalriada/91866)
