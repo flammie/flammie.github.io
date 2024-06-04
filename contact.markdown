@@ -8,6 +8,8 @@ summary for anyone looking for informations:
 * no telephone calls,
 * if office door is open knock in
 * work stuff is checked during office hours (Oslo timezone usually)
+* I take holidays without laptops and unreachable, this includes a law-mandated
+  (Norway) 3+ weeks in Summer
 
 | *Contact* | *Address (link)* |
 | :-------  | :--------------  |
@@ -72,5 +74,11 @@ I can setup notifications and pull interval. Email leaves perfect record of the
 conversation and if people *inline post* all, it's easy to follow, but that's a
 lost battle now I suppose.
 
+## Note about messengers and social media and notifications
+
+I do not have my mobile phone on me at all times and I have disabled **all**
+notifications. I read my messages when I get to them, I will not be interrupted
+by a telephone. It may take several days for me to notice a message in Signal,
+WhatsApp, Telegram or Facebook Messgenger.
 
 <!-- vim: set ft=markdown -->
