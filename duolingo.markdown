@@ -58,10 +58,9 @@ know some details.
 This is my method for learning languages, has worked with: *German* and
 *Norwegian (Bokmål)*, both of these courses are good quality.
 
-1. Use desktop version
-    1. Use keyboard, not word bank
-    1. ~~Read the hints / grammar~~ Duolingo has removed most of the grammar
-       notes and hints in 2023
+1. Use keyboard, not word bank
+1. ~~Read the hints / grammar~~ Duolingo has removed most of the grammar
+   notes and hints in 2023
 1. Set goals and stick to them (50 xp per day, 14+ streak) if you need to rest
    use amulets instead of toxic mobile gaming style *checkin to do 1 xp to
    keep streak* bs that's no good for your learning
@@ -71,6 +70,7 @@ This is my method for learning languages, has worked with: *German* and
 1. If something is strange, ~~read the comments~~ and report, there's a lot of
    bad English and wrong hints and stuff in duolingo. In 2023 duolingo has also
    removed discussions so there's no way to understand broken solutions anymore.
+
 
 Some of this may change everytime duolingo changes stuff.
 
@@ -96,6 +96,14 @@ and word-to-word translations retaining all grammar, others have idiomatic; some
 like Hungarian course have outright ungrammatical and unreadable "English", not
 sure whether the course makers didn't really know English or tried too hard to
 retain all the nuances of Hungarian there.
+
+At the moment (2024) the word bank is by default used by most exercises! This is
+very problematic since it is very easy to fall back into treating the exercises
+as a nearly monolingual word puzzle: *what is the only sensible sentence I can
+form from these English words*. Even when you try very hard to treat it as a
+translation exercise, the fact that you can only see some words but not others
+will help you too much to not use your brains and memory to figure out the
+actual meaning of the sentence in the foreign language.
 
 Because the exercises are not really ordered well, you are often listening or
 writing words you haven't learnt or given the complex sentences before simple
