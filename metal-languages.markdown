@@ -39,6 +39,11 @@ links are to WikiPedia and youtubes as well.
     [The HU on WikiPedia](https://en.wikipedia.org/wiki/The_Hu)
 1. Botswana?:
     1. Skinflint: https://www.youtube.com/watch?v=IcPLcjnS2iM
+1. Maori:
+    1. **Alien Weaponry**:
+    [Alien Weaponry on Wikipedia](https://en.wikipedia.org/wiki/Alien_Weaponry)
+1. Hebrew:
+    1. **Orphaned Land**
 1. Hungarian:
     1. **Dalriada**:
     [Dalriada on Metal Archives](https://www.metal-archives.com/bands/Dalriada/91866)
@@ -48,8 +53,11 @@ links are to WikiPedia and youtubes as well.
 1. Japanese:
     1. **X**
       [X Japan on Metal Archives](https://www.metal-archives.com/bands/X_Japan/2150)
-    1. アニメタル (Animetal)
+    1. アニメタル (**Animetal**)
       [Animetal on WikiPedia](https://en.wikipedia.org/wiki/Animetal)
+    1. **Galneryus**
+1. Icelandic:
+    1. **Skálmöld**
 1. Norwegian:
 1. Swedish:
     1. **Finntroll**:
@@ -59,6 +67,10 @@ links are to WikiPedia and youtubes as well.
 1. Finnish:
     1. **Korpiklaani**
     1. **Ajattara**
+    1. **Teräsbetoni**
+    1. **Viikate**
+1. Hindi
+    1. **Bloodywood**
 1. Spanish:
     1. **Mägö de Oz**:
     [Mägo de Oz on Metal Archives](https://www.metal-archives.com/bands/M%C3%A4go_de_Oz/865)
