@@ -10,6 +10,9 @@ summary for anyone looking for informations:
 * work stuff is checked during office hours (Oslo timezone usually)
 * I take holidays without laptops and unreachable, this includes a law-mandated
   (Norway) 3+ weeks in Summer
+* You can use public key A78F7092724E72D38981203CCEAF4D20913446FC to verify me:
+  [Flammie's gpg key](flammie-pubkey.gpg), [public key in text
+  format](flammie-pubkey.txt)
 
 | *Contact* | *Address (link)* |
 | :-------  | :--------------  |

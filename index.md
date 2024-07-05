@@ -59,6 +59,9 @@ of lack the temporal concept of blog postings somehow...
 * no voice chats or video conferences unless necessary,
 * no telephone calls
 * if the office door is ajar, knock in
+* you can use my public key A78F7092724E72D38981203CCEAF4D20913446FC
+  to verify stuff: [flammie's public key](flammie-pubkey.gpg), [text version
+  of public key](flammie-pubkey.txt)
 
 | *Contact* | *Address (link)* |
 | :-------  | :--------------  |
@@ -86,7 +89,6 @@ of lack the temporal concept of blog postings somehow...
 | | NO-9037 |
 | | PO Box 6050  |
 | Office | [UiT Tromsø, HSK, A3024](https://en.uit.no/ansatte/person?p_document_id=682451&p_dimension_id=210121#tab-item-4) |
-
 
 # Calendar
 
