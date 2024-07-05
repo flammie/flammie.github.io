@@ -5,12 +5,12 @@
 * * *
 
 Historically there has been some unnecessary competition between different
-methods of doing nlp, this is kind of artificial and basically just harming
-progress. Rules and statistics and neural networks are just tools to do things,
-you cannot really reach optimal result without using right tools. Especially in
-academia people have always been enamoured to following *pure* approaches, in
-practice it's like playing a game of how far can you go blindfolded with hands
-tied.
+methods of doing NLP (natural language processing), this is kind of artificial
+and basically just harming progress. Rules and statistics and neural networks
+are just tools to do things, you cannot really reach optimal result without
+using right tools. Especially in academia people have always been enamoured to
+following *pure* approaches, in practice it's like playing a game of how far can
+you go blindfolded with hands tied.
 
 There's a very simple, rule of thumb kind of logic to when and where to use
 which approaches:
@@ -65,7 +65,23 @@ language intuition; as any competent linguist is likely to use all three to
 explain translations so should a computer when translating, no?
 
 If you don't like rules of thumbs, here's some more experiences along the road.
-Let's go in order of what we know to what we are unsure of!
+Let's go in order of what we know to what we are unsure of! TLDR table of
+contents:
+
+1. Words (spell-checking, dictionaries, morphology)
+1. Phrases and sentences (grammar checking, ...?)
+1. Meanings (machine translation, proper knowledge extractions)
+
+Speech instead of text on the other hand:
+
+* Audio, sounds, phones etc. physical measurable things are well understood and
+  defined
+* The raw knowledge-based models sound terrible and have to guess a lot in
+  recognition AFAIK
+* speech data has more random variance
+* speech data is easier to create in larger quantities
+* therefore neural models are very useful very fast
+
 
 ## Analysing words
 
