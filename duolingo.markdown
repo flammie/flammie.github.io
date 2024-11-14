@@ -43,7 +43,9 @@ to prioritise customer retention over effective learning. It has to sell
 will literally be interrupted by a voice that says "people who pay are five
 times more likely to finish their courses", how's that for putting money before
 the "noble cause" of teaching people languages, literally making it worse for
-free users on purpose.
+free users on purpose. Duolingo is optimised for maximum profit, not maximum
+learning. Every update they make is maximising user retention, not improved
+language learning. This cannot be emphasised enough.
 
 Also one of the more problematic things which I have not thoroughly researched
 but heard third hand information of of is, the courses are made by *volunteers*,
@@ -52,6 +54,10 @@ understanding of language teaching / pedagogy, and this is quite apparent in
 some courses (admittedly most bad courses are marked *beta*). By the way if you
 know what kind of deal Duolingo has with course admins I would be interested to
 know some details.
+
+They have also added even more problematic way to generate endless courses for
+minimum effort; in 2024 they simply just use AI to generate the content, there's
+no human thought that goes into making this little exercises any more.
 
 ## Howto: use duolingo effectively
 
