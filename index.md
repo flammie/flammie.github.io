@@ -50,6 +50,9 @@ of lack the temporal concept of blog postings somehow...
   introduction at an academic event, try ['pi.Ri,nen] (yeah Finnish
   orthography is relatively modern and phonemic, and matches the IPA
   transcription quite well)
+* Pronouns in English: [he/him/they/them](pronouns.html)
+* pronouns in Finnish:
+  hän/hänet/hänellä/häneltä/hänelle/hänessä/hänestä/häneen/hänen/häntä/... ;-)
 
 # Contact information / social media
 
