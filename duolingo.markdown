@@ -8,13 +8,13 @@ much much worse in near future. If you can use real courses made by professional
 teachers it is usually much better than supporting duolingo.**
 
 Duolingo is a language learning app in 2000's. It is quite simple, in that it
-only features few very basic language tests. It has mobile app and a browser
-app, but I think the mobile app is the popular one and true to early 2000's it
-has just got very popular indeed in a way that most people who know programming
-and games just cannot easily comprehend. However, I have successfully used it
-too, because, in the end, learning language is rather efficient by doing very
-simple tasks repetitively and getting points and crowns and gems and high score
-boards against friends along the way is a good thing.
+only features few very basic language exercises. It has mobile app and a browser
+app, but I think the mobile app is the popular one. Being so simple and having
+nothing particularly unique makes you wonder why it is so popular over anything
+else really. However, I have successfully used it too, because, in the end,
+learning language is rather efficient by doing very simple tasks repetitively
+and getting points and crowns and gems and high score boards against friends
+along the way is a good thing.
 
 Like I said, Duolingo has only few types of basic exercises most of which are
 familiar from schoolbooks etc. At the moment there is:
@@ -30,34 +30,17 @@ familiar from schoolbooks etc. At the moment there is:
        you can
 1. match words 5×2
 1. listen and type (if you have audio output)
+    1. or listen and select words from the word bank
 1. speak (if you have a microphone)
 1. Fill in one missing word in sentence or discussion, multiple choice (also
    known as *cloze*)
 
 Most of these are exactly what you get in text books if you studied languages at
-school.
+school. There's nothing particularly creative in these exercises but they are
+effective mostly. If only this app was available as open source version where
+users could contribute courses and the contributed courses were also open source
+and there was no pay wall to learning...
 
-Duolingo is a for-profit company which is problematic from few aspects. It has
-to prioritise customer retention over effective learning. It has to sell
-*~~duolingo plus~~ Super Duolingo* and push ads. If you don't pay, your studying
-will literally be interrupted by a voice that says "people who pay are five
-times more likely to finish their courses", how's that for putting money before
-the "noble cause" of teaching people languages, literally making it worse for
-free users on purpose. Duolingo is optimised for maximum profit, not maximum
-learning. Every update they make is maximising user retention, not improved
-language learning. This cannot be emphasised enough.
-
-Also one of the more problematic things which I have not thoroughly researched
-but heard third hand information of of is, the courses are made by *volunteers*,
-who may not receive much of duolingo's profits at all and may not have any
-understanding of language teaching / pedagogy, and this is quite apparent in
-some courses (admittedly most bad courses are marked *beta*). By the way if you
-know what kind of deal Duolingo has with course admins I would be interested to
-know some details.
-
-They have also added even more problematic way to generate endless courses for
-minimum effort; in 2024 they simply just use AI to generate the content, there's
-no human thought that goes into making this little exercises any more.
 
 ## Howto: use duolingo effectively
 
@@ -86,8 +69,34 @@ news or watch a tv without subtitles, talk to people or such.
 
 ## Problems
 
-Duolingo has several quite bad problems that make it less useful than it could
-be. One of the biggest one is that it is mostly only available in English.
+Duolingo is a for-profit company which is problematic from few aspects. It has
+to prioritise customer retention over effective learning. It has to sell
+*~~duolingo plus~~ Super Duolingo* and push ads. If you don't pay, your studying
+will literally be interrupted by a voice that says "people who pay are five
+times more likely to finish their courses", how's that for putting money before
+the "noble cause" of teaching people languages, literally making it worse for
+free users on purpose. Duolingo is optimised for maximum profit, not maximum
+learning. Every update they make is maximising user retention, not improved
+language learning. This cannot be emphasised enough.
+
+In 2024 they've also made the hearts system much more punishing and disabled any
+other way to gain hearts than paying money! This means that if you make 5
+mistakes you cannot continue learning unless you pay. This is of course very bad
+for learning anything.
+
+Also one of the more problematic things which I have not thoroughly researched
+but heard third hand information of of is, the courses are made by *volunteers*,
+who may not receive much of duolingo's profits at all and may not have any
+understanding of language teaching / pedagogy, and this is quite apparent in
+some courses (admittedly most bad courses are marked *beta*). By the way if you
+know what kind of deal Duolingo has with course admins I would be interested to
+know some details.
+
+They have also added even more problematic way to generate endless courses for
+minimum effort; in 2024 they simply just use AI to generate the content, there's
+no human thought that goes into making this little exercises any more.
+
+One huge problem for me is that Duolingo is only available in English.
 English is quite unusual language and doesn't resemble many of the languages,
 for most of us it isn't a native language. Many of the exercises are translation
 exercises and the system has very simple definition of correct translation; it
