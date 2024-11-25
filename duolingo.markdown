@@ -5,7 +5,9 @@ somewhere around 2023 duolingo disabled discussions and grammar notes so it's
 always getting worse and less useful. Also in 2023 duolingo laid off a lot of
 humans to begin to use AI to make these courses so we can only expect it to be
 much much worse in near future. If you can use real courses made by professional
-teachers it is usually much better than supporting duolingo.**
+teachers it is usually much better than supporting duolingo. Finally, in
+2024 duolingo has made free version of the app unusable, you literally cannot
+continue learning after 5 mistakes unless you pay now!**
 
 Duolingo is a language learning app in 2000's. It is quite simple, in that it
 only features few very basic language exercises. It has mobile app and a browser

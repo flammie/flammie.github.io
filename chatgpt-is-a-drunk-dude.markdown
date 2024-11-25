@@ -5,15 +5,15 @@ models and neural network technology, some call it an artificial intelligence
 and it is indeed a leap ahead of chatbots that came before it and it has
 gathered much of popular interest and use through the early 2020s now. The thing
 is, it produces perfectly grammatical and idiomatic English and passable other
-world languages too (training data is 98 % and some 0.1 % of most of the top 100
-languages of the world c.f. [my guesstimate of language resource sizes]()),
-however, the texts it produces are not truthful or even coherent. As it is
-basically a copy/paste machine of all the texts of the internet with a somewhat
-clever smush function to combine clippings together (or a lossy compression
-algorithm for text if you want to think it other way), it cannot really
-guarantee truthiness or consequentialness of anything it produces, it's still
-just snippets of texts that may or may not be relevant in some context. As it
-happens this kind of stories conjured up from bits and pieces are highly
+world languages too (training data is 98 % English and some 0.1 % in many of the
+top 100 languages of the world c.f. [my guesstimate of language resource
+sizes]()), however, the texts it produces are not truthful or even coherent. As
+it is basically a copy/paste machine of all the texts of the internet with a
+somewhat clever smush function to combine clippings together (or a lossy
+compression algorithm for text if you want to think it other way), it cannot
+really guarantee truthiness or consequentialness of anything it produces, it's
+still just snippets of texts that may or may not be relevant in some context. As
+it happens this kind of stories conjured up from bits and pieces are highly
 entertaining, and reading these stories does remind me of meeting certain
 storytellers at bars, you probably all have experienced this in your life,
 usually an elderly man who starts to talking with anyone at a bar and has the
