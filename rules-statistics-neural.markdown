@@ -129,6 +129,25 @@ language technology is super frustrating to read. People often evaluate their
 solutions based on idea of one correct solution and a system giving the other
 correct solution will be marked as a failing system.
 
+## Predicting / auto-completing
+
+*Predicting next word from half a sentence is not a linguistic task. It's not
+even a logically coherent task with a reasonably correct solution. Doing well in
+that is about as interesting as predicting person's day from their star sign.*
+
+Auto-complete is one of the most successful tasks of large language models,
+which is not surprising to me at all, it is a task that linguists had not even
+thought about for the most, definitely not a thing that most had tried to
+implement before. It is an ideal example of the logic I talk about in this
+article, there is very little evidence in the linguistics or logic of a half
+finished sentence that would give reasonable one or even ten best solutions to
+the question of what word comes next, most of the time, but when looking at
+automatic completions, we can usually nod, yeah this makes the most sense. I am
+kind of interested in doing a more scientific analysis of this at some point if
+there isn't one already, but at the moment it is very much my gut feeling that
+prediction is quite ideal example of an NLP task that should be done with
+neurals and not with linguistic rules.
+
 ## Speech technology
 
 AFAIK even the best efforts at constructing rules for speech synthesis have lead
