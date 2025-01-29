@@ -110,6 +110,65 @@ start and length instead. Like `substr`...
 
 * <https://dustri.org/b/my-favourite-c-footgun.html>
 
+# STL and all the heavy implicit operations in construction and copying
+
+One of my favourite frustrations in c++ is when you have to work with STL data
+strutures containing non-trivial stuff and suddenly all innocent operations and
+very few lines of code can launch into absurdly exponentially slow behaviour
+that is impossible to see from the code. I made up an invented but realistic
+example to illustrate some of the problems in five minutes here:
+
+```c++
+#include <iostream>
+#include <vector>
+
+class HeavyStuff
+{
+  public:
+    HeavyStuff() { std::cout << "constructor" << std::endl; }
+
+    void
+    bleet()
+    {
+        std::cout << "bleet" << std::endl;
+    }
+
+    ~HeavyStuff() { std::cout << "destructor" << std::endl; }
+};
+
+void
+use_heavy_stuffs(std::vector<HeavyStuff> stuffs)
+{
+    for (auto stuff : stuffs)
+    {
+        stuff.bleet();
+    }
+}
+
+int
+main(int argc, char **argv)
+{
+    std::vector<HeavyStuff> stuffs;
+    stuffs.push_back(HeavyStuff());
+    stuffs.push_back(HeavyStuff());
+    stuffs.push_back(HeavyStuff());
+    use_heavy_stuffs(stuffs);
+}
+```
+
+You can also find it in [heavy.cpp](heavy.cpp). IF you compile and run this, can
+you see directly from the code how many constructors and destructors get called?
+The answer is 9 destructors, and visibly, 3 constructors! Now assume that
+HeavyStuff construction would swallow a gigabyte of memory or use half a minute
+to build? I know all mid to advanced c++ programmers can tell the issue
+instantly, but this is the kind of code we get from junior programmers and AI
+all the time, and it seems reasonable. To avoid this kind of behaviour in some
+of my past projects with many collaborators, we pretty much enforced policy to
+only store pointers in STL containers, smart eh? But that is the reality of C++
+programming with colleagues who are unwilling to learn more, which is not
+uncommon in scientific programming.
+
+
 # TODO list of c++ fails
 
 Things I know are horrible but haven't described here yet
