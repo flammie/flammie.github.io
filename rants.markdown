@@ -50,13 +50,16 @@ See also: [Flammie's academic works](/purplemonkeydishwasher/)
 * [Ambiguity in languages and NLP](ambiguity.html)
 * [Rules, statistics and neural networks are just tools and you need them all
    to do good NLP, click here to find out why?](rules-statsistics-neural.html)
+* [ChatGPT being unreliable](chatgpt-is-a-drunk-dude.html)
+* [Copyright and LLM/AI rants](free-open-licences-and-large-language-models.html)
 
 ## Programming and computer stuffs
 
 See also: [Flammie’s dotfiles](/dotfiles/), [flammie's
 github](https://github.com/flammie/)
 
-* [C++ is a bad bad language](cpp-fails.html), like my take on C++ FQA
+* [C++ is rubbish](cpp-fails.html), like my take on C++ Frequently Questioned
+  Answers (FQA)
 * [Code style guides and standards are often wrong](code-style-fails.markdown),
   some specific critiques of specific code styles that promote unreadable code
 * [TeX cheat sheet](tex-cheat-sheet.html), things I have had to google more
