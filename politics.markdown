@@ -27,6 +27,9 @@ unpopular opinions if you may, in contemporary internet usage:
   specific rant about it as well on this site, the gap between rich and the poor
   is the worst ever, the products and services we get are not best quality they
   can be, etc. etc.,
+    * r/endtipping! What a way to organise payment of a salary to a worker, this
+      is annoying to customers, the staff, doesn't work, conventionally pretty
+      and nice people earn more or tips get stolen by coworkers or owners or.
 * r/fuckcars: the older I get the more I realise car culture has destroyed our
   cities, car drivers murder more people than any other human cause and create
   more pollution that could be avoided
