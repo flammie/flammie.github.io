@@ -1,4 +1,4 @@
-# Google (Maps) Reviews are **not** trustworthy
+# Flammie on: Google (Maps) Reviews are **not** trustworthy
 
 *TLDR: there's a business of manufacturing fake 5 star reviews, google lets
 restaurant owners delete negative reviews and it is illegal in Germany to give
