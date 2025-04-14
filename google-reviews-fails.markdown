@@ -1,5 +1,9 @@
 # Google (Maps) Reviews are **not** trustworthy
 
+*TLDR: there's a business of manufacturing fake 5 star reviews, google lets
+restaurant owners delete negative reviews and it is illegal in Germany to give
+negative reviews, and therefore Google reviews are useless.*
+
 A lot of people, myself included, use google maps and their ratings to decide
 where to go, which restaurants and bars are good and safe, which tourist
 attractions are worth visiting and so on and so forth. However, Google is a
@@ -16,14 +20,22 @@ the first section of the article.
 But there is another more heinous aspect to Google reviews I have only
 discovered recently due to EU's / Germany's privacy laws (or something like
 that), which forces(?) Google to notify me when the business owner demands
-Google to remove my (negative) reviews... So to this date, Google has allowed
-business owners to just remove negative reviews behind the scenes without anyone
-noticing! And we wonder why some of the pizza-pasta-kebab-salad-sushi
-restaurants that you'd only visit at 5 am on the way back home from bar have
-only 5 star reviews for best food ever.  They are in German only, I think Google
-has chosen purposedly to send this in German legalese to scare most people since
-it contains a lot of threatening terminology and probably automatic machine
-translation will be quite scary.
+Google to remove my (negative) reviews... So to this date, Google has probably
+allowed business owners to just remove negative reviews behind the scenes
+without anyone noticing! And we wonder why some of the
+pizza-pasta-kebab-salad-sushi restaurants that you'd only visit at 5 am on the
+way back home from bar have only 5 star reviews for best food ever. So when you
+give a negative review on Google maps (at least 1 or 2 stars), you get a really
+long letter from Google threatening with all sorts of legal consequences. The
+letters are in German only, I think Google has chosen purposedly to send this in
+German legalese to scare most people since it contains a lot of threatening
+terminology and probably automatic machine translation will be quite scary.
+
+Table of contents:
+
+1. [Fake reviews](#fake-reviews-is-a-paid-side-hustle)
+1. [Illegal negative
+   reviews](#legal-threats-for-negative-google-maps-reviews-in-germany)
 
 
 ## Fake reviews is a paid side hustle
@@ -44,9 +56,9 @@ Oslo](google-maps-scam2.png)
 
 ## Legal threats for negative google maps reviews in Germany
 
-This is a short part of the collection of legal threats I've gotten from Google
-/ restauarnt owners in Germany for giving one or two star reviews on Google
-maps.
+This is just a sample from the collection of legal threats I've gotten from
+Google / restauarnt owners in Germany for giving one or two star reviews on
+Google maps.
 
 Following is a list of low quality places in Germany I have reviewed that have
 decided to try to sue me:

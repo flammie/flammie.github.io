@@ -87,6 +87,7 @@ science topics.
 * [Toxicity and Toxic -ity and some thoughts](toxicity.html)
 * [Elder millennial vs. generations: X, y, Z, alpha and do we need
   them](human-generations.html)
+* [Google maps' reviews is a scam](google-maps-reviews-fails.html)
 
 -----
 
