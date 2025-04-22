@@ -16,22 +16,21 @@ summary for anyone looking for informations:
 
 | *Contact* | *Address (link)* |
 | :-------  | :--------------  |
-| *E-Mail* | flammie@iki.fi |
-|  (work)  | flammie.pirinen@uit.no |
-|  (google) | ffflammie@gmail.com (Google apps only¹) |
+| *E-Mail* | <flammie@iki.fi> |
+|  (work)  | <flammie.pirinen@uit.no> |
 | IRC | [Flammie on libera.chat](irc://libera/Flammie?isnick) |
 |     | [Flammie on OFTC](irc://OFTC/Flammie?isnick) |
 | github | [Flammie on github](https://github.com/flammie/) |
 | Zulip | [GiellaLT Zulip (work)](https://giellalt.zulipchat.com) |
 | matrix | @Flammie:matrix.org |
-| Twitter | [ffFlammie](https://twitter.com/ffFlammie) |
+| ~~Twitter~~ | ~~[ffFlammie](https://twitter.com/ffFlammie)~~ |
 | Linkedin | [tommi-pirinen](https://www.linkedin.com/in/tommi-pirinen-6182127/) |
-| Google | ffflammie@gmail.com |
+| Google¹ | <ffflammie@gmail.com> |
 | Facebook | [ffflammie](https://www.facebook.com/ffflammie) |
 | Vkontakte | [ffflammie](https://vk.com/ffflammie) |
 | ~~Telephone~~ | **none** |
 | Telegram | *search* |
-| Skype | *search* |
+| ~~Skype~~ | ~~EOL~~ |
 | Zoom | *search* |
 | ~~WhatsApp~~ | **???** |
 | Mastodon | <a rel="me" href="https://mastodon.online/@flammie">Mastodon</a> |
@@ -43,7 +42,8 @@ summary for anyone looking for informations:
 
 ¹ if you need to send an invite to a google-hosted app: Google calendar, Google
 forms, Google Plus, Google Duo, Google Docs, Google Happy Beer Hour or
-such, use this email address, email sent to this address goes to spam folder.
+such, use this email address, actual emails sent to this address go
+to spam folder.
 
 * * *
 

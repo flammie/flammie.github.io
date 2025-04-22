@@ -68,21 +68,20 @@ of lack the temporal concept of blog postings somehow...
 
 | *Contact* | *Address (link)* |
 | :-------  | :--------------  |
-| *E-Mail* | flammie@iki.fi (not work) |
-|          | tommi.pirinen@uit.no (work) |
-|          | ffflammie@gmail.com (Google invites etc.) |
+| *E-Mail* | <flammie@iki.fi> (not work) |
+|          | <flammie.pirinen@uit.no> (work) |
 | IRC | [Flammie on libera.chat](irc://libera/Flammie?isnick) |
 |     | [Flammie on OFTC](irc://OFTC/Flammie?isnick) |
 | github | [Flammie on github](https://github.com/flammie/) |
 | matrix | @Flammie:matrix.org |
-| Twitter | [ffFlammie](https://twitter.com/ffFlammie) |
+| ~~Twitter~~ | ~~[ffFlammie](https://twitter.com/ffFlammie)~~ |
 | Linkedin | [tommi-pirinen](https://www.linkedin.com/in/tommi-pirinen-6182127/) |
-| Google | ffflammie@gmail.com |
+| Google | <ffflammie@gmail.com> |
 | Facebook | [ffflammie](https://www.facebook.com/ffflammie) |
 | Vkontakte | [ffflammie](https://vk.com/ffflammie) |
 | ~~Telephone~~ | **none** |
 | Telegram | *search* |
-| Skype | *search* |
+| ~~Skype~~ | ~~EOL~~ |
 | Zoom | *search* |
 | ~~WhatsApp~~ | **???** |
 | Mastodon | <a rel="me" href="https://mastodon.online/@flammie">Mastodon</a> |
@@ -101,6 +100,9 @@ or for work stuff, [my Microsoft
 Booking](https://outlook.office.com/bookwithme/user/f297d3e883d546bc8ad906c68c3f28c7@uit.no?anonymous&ep=plink)
 
 # Testing Google's trackers here:
+
+(this page contains google tracker for testing stuff and statistics, you
+should probably have it blocked by adblock or privacy badger or such ;-)
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-PW6HR9NHNM"></script>
