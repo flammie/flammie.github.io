@@ -77,11 +77,22 @@ See also:
 
 ## Whose responsibility is following the licence terms then?
 
-This is an interesting question that not many have talked about. My starting
-point is that freely licenced texts as well as texts that don't have explicit
-licence (so-called publically available data or web crawls), already have a
-copyright that requires re-use be at least attributed at all times. So whose
-responsibility is it to provide attributions.
+This is an interesting question that not many have talked about. It seems clear
+to me that large language models can and do generate data and stuff, that
+clearly breaks copyrights and/or other contracts on re-use and re-mix of the
+original data, but who is responsible. I guess one big problem here is that many
+AI critical people assume that the companies producing the AI takes
+responsibility, the companies naturally assume that responsibility is of the
+users', and end result as of 2025 is that people generate copies, duplicates,
+derivatives and remixes of copyrighted work and nobody takes responsibility.
+People who are pro AI like to say that AI takes influence from other people's
+works like a human that is learning, but we do all understand if a human that
+has studied anime and manga starts to sell "studio ghibli *style*" pictures,
+they are doing something immoral and illegal, why do we allow AI-generated
+pictures pass? It is only because in AI scenario the "AI artist" can assume that
+the AI and AI company are responsible for copyright strike, and the companies
+quite explicitly say that the person using the AI generator takes all
+responsibilities.
 
 ## Releasing binaries of language models is not open source
 
@@ -98,8 +109,8 @@ sources for re-building. In LLM context this clearly means all the data that was
 fed to the LLM, there's no ifs and buts about it. That is the only way to study
 the products and remix it truly to ensure it doesn't contain anything unwanted.
 
-See also:
+# Further readings
 
 * [Ars Technica article on the topic](https://arstechnica.com/information-technology/2024/08/debate-over-open-source-ai-term-brings-new-push-to-formalize-definition/)
-
+* [Linux Foundation blog: The Open Source Legacy and AI’s Licensing Challenge](https://www.linuxfoundation.org/blog/the-open-source-legacy-and-ais-licensing-challenge?hss_channel=fbp-1620822758218702)
 
