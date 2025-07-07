@@ -250,3 +250,7 @@ on reddit, for example: [reddit search on google maps review germany
 legal](https://www.reddit.com/search/?q=google+maps+review+germany+legal&cId=72162a33-f668-48c9-a279-dfe3d5000ac4&iId=6f0770ce-9462-4419-99fb-8dfa56cea177)
 gives dozens of hits of good discussions on legality and background of these
 shenanigans.
+
+On Youtube there is [a news story (in German) from ARD
+Marktcheck](https://www.youtube.com/watch?v=djlLHjRIPEM) that covers a bit of
+what I have said as well.
