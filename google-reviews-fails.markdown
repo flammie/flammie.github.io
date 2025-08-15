@@ -251,6 +251,8 @@ legal](https://www.reddit.com/search/?q=google+maps+review+germany+legal&cId=721
 gives dozens of hits of good discussions on legality and background of these
 shenanigans.
 
-On Youtube there is [a news story (in German) from ARD
-Marktcheck](https://www.youtube.com/watch?v=djlLHjRIPEM) that covers a bit of
-what I have said as well.
+* On Youtube there is [a news story (in German) from ARD
+  Marktcheck](https://www.youtube.com/watch?v=djlLHjRIPEM) that covers a bit of
+  what I have said as well.
+* Also [rewboss has a story in English about
+  this](https://www.youtube.com/watch?v=6bM_pXQg7e8)
