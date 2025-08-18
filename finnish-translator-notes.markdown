@@ -138,4 +138,19 @@ tms. kanssa, vaikkapa:
 
 > Ei voitu jatkaa ohjelman suorittamista, sillä muisti loppui kesken.
 
+### Doing X...
 
+Eritoten graafisissa käyttöliittymissä on usein viestejä siitä että jotain on
+työn alla: "moving files...", "loading textures...". Näissä on yleensä hyvä
+muistaa että suomeksi sitä epämääräisyyttä kuvataan partitiivilla, eli:
+
+> Tiedostoja siirretään...
+
+eikä:
+
+> ~~Siirretään tiedostot...~~
+
+(Toinen huomionarvoinen asia täällä on tuo merkintä "...", on totta että
+Unicodessa on erikoismerkki "…" kolmea pistettä varten, tämä ei ole
+merkittävästi parempi kuin ihan vain kolme piste-merkkiä peräkkäin, joten ei
+välttämättä kannata hukata aikaa sen etsiskelyyn.)
