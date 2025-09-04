@@ -23,12 +23,15 @@ github pages:
 * [Apertium Finnish–German resources](//apertium.github.io/apertium-fin-eng/)
 * [Apertium Finnish–Norwegian resources](//apertium.github.io/apertium-fin-nor/)
 
-## Blogs, opinions and writeups
+## Blogs, opinions and such
 
-There is also a section for [essays, rants and such writeups](rants.html), where
-I write things that are not quite well-formulated enough for academic short
-papers even but longer than tweets, you could call them blog posts but they kind
-of lack the temporal concept of blog postings somehow...
+* [essays, rants and such writeups](rants.html), where I write things that
+  are not quite well-formulated enough for academic short papers even but
+  longer than tweets
+* [reviewy things](reviews-everything/) and a CMS I wrote for writing reviews or
+  *backing up* reviews from other sources (since we cannot trust googles and
+  tripadvisers)
+* [cooking up](cooks-food/) and a CMS I wrote for writing recipes
 
 # Flammie
 
@@ -92,14 +95,12 @@ of lack the temporal concept of blog postings somehow...
 | Mail | UiT Arctic University of Tromsø |
 | | NO-9037 |
 | | PO Box 6050  |
-| Office | [UiT Tromsø, HSK, A3024](https://en.uit.no/ansatte/person?p_document_id=682451&p_dimension_id=210121#tab-item-4) |
+| Office | [UiT Tromsø, SVHUM, A3024](https://en.uit.no/ansatte/person?p_document_id=682451&p_dimension_id=210121#tab-item-4) |
 
 # Calendar
 
-If you need to schedule things with me, check [my google
-calendar](https://calendar.google.com/calendar/u/0?cid=ZmZmbGFtbWllQGdtYWlsLmNvbQ).
-or for work stuff, [my Microsoft
-Booking](https://outlook.office.com/bookwithme/user/f297d3e883d546bc8ad906c68c3f28c7@uit.no?anonymous&ep=plink)
+The work-related matters must be handled using [my Microsoft
+Booking](https://outlook.office.com/bookwithme/user/f297d3e883d546bc8ad906c68c3f28c7@uit.no?anonymous&ep=plink).
 
 
 <!-- vim: set ft=markdown -->
