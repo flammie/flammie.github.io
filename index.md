@@ -65,6 +65,8 @@ of lack the temporal concept of blog postings somehow...
 * you can use my public key A78F7092724E72D38981203CCEAF4D20913446FC
   to verify stuff: [flammie's public key](flammie-pubkey.gpg), [text version
   of public key](flammie-pubkey.txt)
+    * Github will show you the [public keys I use on
+      github](https://github.com/flammie.gpg) on this handy page
 
 | *Contact* | *Address (link)* |
 | :-------  | :--------------  |
