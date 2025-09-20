@@ -30,6 +30,9 @@ sentiment I mean to convey here:
 [Youtube: When Python Practices Go
 Wrong](https://www.youtube.com/watch?v=ZdVgwhHXMpE)
 
+And here is a [blog post about DRY (don't repeat yourself) gone
+wrong](https://read.engineerscodex.com/p/4-software-design-principles-i-learned)
+
 ## Avoid including too many headers (C++)
 
 This is one of my pet peeves with especially *professional* programmers and C++
