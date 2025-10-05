@@ -4,7 +4,8 @@ I learnt Finland's Swedish (finlandsvenska, a variant of Swedish spoken with
 Finnish phoneme set and few minor variations) in school but work daily with
 Norwegian these days, in general of course my Swedish wasn't too good but here's
 how I translate between them in my head usually. This is of course interesting
-for my RBMT work and linguistics as well.
+for my RBMT work and linguistics as well. I also need to reverse this when I
+visit sweden to speak understandable *skandinavisk*.
 
 | Swedish | Norwegian bokmål | English gloss |
 | :------ | :--------------- | ------------: |
@@ -31,6 +32,10 @@ for my RBMT work and linguistics as well.
 | disk | oppvask | dishes (Fin: *tiski*) |
 | fönster | vindu | window |
 | åka | reise | travel (go but not by foot) |
+| tyvärr | desverre | sorry, unfortunately |
+| kille | gutta | boy, guy |
+| tjej | jenta | girl, gal |
+| tjenare | hallais | informal greetingses |
 
 Most of the Swedish words are more or less understood in Norway, sometimes with
 more or less specific restrictions, e.g. instead of *eat* it might be
