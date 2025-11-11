@@ -4,6 +4,9 @@
 
 This is a personal github pages site for [Flammie on
 github](https://github.com/flammie).
+Work-related stuff is at [my university
+pages](https://en.uit.no/ansatte/person?p_document_id=682451&p_dimension_id=210121)
+(where it doesn't overlap lol).
 
 ## Projects and open source work stuff things
 
@@ -100,7 +103,8 @@ github pages:
 # Calendar
 
 The work-related matters must be handled using [my Microsoft
-Booking](https://outlook.office.com/bookwithme/user/f297d3e883d546bc8ad906c68c3f28c7@uit.no?anonymous&ep=plink).
+Booking](https://outlook.office.com/bookwithme/user/f297d3e883d546bc8ad906c68c3f28c7@uit.no?anonymous&ep=plink)
+or some other system that integrates with the microsoft calendar we use...
 
 
 <!-- vim: set ft=markdown -->
