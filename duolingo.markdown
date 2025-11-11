@@ -1,4 +1,4 @@
-# Flammie on *Duolingo*
+# Flammie on (historical) *Duolingo*
 
 **NB: duolingo changes all the time so anything written here can be outdated. In
 somewhere around 2023 duolingo disabled discussions and grammar notes so it's
@@ -7,7 +7,9 @@ humans to begin to use AI to make these courses so we can only expect it to be
 much much worse in near future. If you can use real courses made by professional
 teachers it is usually much better than supporting duolingo. Finally, in
 2024 duolingo has made free version of the app unusable, you literally cannot
-continue learning after 5 mistakes unless you pay now!**
+continue learning after 5 mistakes unless you pay now!
+The rest of the article is a reference to what Duolingo did right or not in its
+early years.**
 
 Duolingo is a language learning app in 2000's. It is quite simple, in that it
 only features few very basic language exercises. It has mobile app and a browser
