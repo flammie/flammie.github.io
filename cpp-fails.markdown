@@ -193,3 +193,5 @@ efficient and smart C++ stuff that is all very WTF-worthy usually. This is all
 ideal if you want to have an headache for sure. With the exception of Bjarne
 Stroustrup, who is actually quite sensible and reasonable and talks about things
 that make sense.
+
+Also, [this youtube video](https://www.youtube.com/watch?v=7fGB-hjc2Gc)
