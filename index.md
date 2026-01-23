@@ -34,7 +34,7 @@ github pages:
 * [reviewy things](reviews-everything/) and a CMS I wrote for writing reviews or
   *backing up* reviews from other sources (since we cannot trust googles and
   tripadvisers)
-* [cooking up](cooks-food/) and a CMS I wrote for writing recipes
+* [cooking up](cooks-foods/) and a CMS I wrote for writing recipes
 
 # Flammie
 
