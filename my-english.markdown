@@ -85,7 +85,8 @@ prominent example of this is my christening name: *Tommi*. If I pronounce it in
 Finnish way, most people will write down *Dom* or *Dominic* of some sort. To
 make sure I am understood I have to pronounce it in a way that to me is very
 exaggeratedly aspirated: *T-hhh-ommmei*, but then, it will be mostly written as
-*Tommy* in the papers. Oh well.
+*Tommy* in the papers. Oh well. (I said christening name since I'ven't used it
+in ages, it ceased to exist in my passport in 2024-ish).
 
 ### Sibilants: s, z, and sh and some zh
 
@@ -132,11 +133,19 @@ merger](https://en.wikipedia.org/wiki/Cot%E2%80%93caught_merger) and
 Another fine xample is Irish u in pub, Dublin or even bus is rather closer to
 Finnish u than English u in those words.
 
-## beau etc.
+### beau etc.
 
 One thing that I will often miss if not concentrating is the */j/* sound in
 words like *beautiful*, so it turns out like *bootiful*. This sound actually
 appears a lot more in English than you'd think:
+
+### An european university
+
+If a word seems to be written with initial vowel, I will pronounce initial
+vowels and consequently write *an* instead of *a* before it, referring to the
+previous; European starts with */j/* sound but in sloppy speech I will pronounce
+*/eu/*, a combination of sounds that English speakers wouldn't even use, the
+same happens with u-words commonly, instead of */ju/* I start them with */u/*.
 
 ## Different words and grammars
 
@@ -213,3 +222,14 @@ counterparts, so there will be a lot of suspicious usage for any foreign
 language speakers. It is also next to impossible to know for sure which of these
 words convey negative attitudes, ignorance or dismissal for a non-native
 speaker. Just to keep in mind.
+
+### Numerals of things
+
+I notice a lot that people of many non-Finnish languages have troubles following
+when I use numerals without explicit context, something which is very common in
+spoken Finnish; bus numbers, house numbers, dates and times are only expressed
+with the numerals. So I say, *Let's meet at 5 on the 28th in the 92, I'll come
+on the 8* (Finnish: "Nähään 5:ltä (viieltä) 28. (kaheskytkaheksas)
+92:ssa (ysikakkosessa) tuun 8:lla (kasilla)"). Foreign languages seem to require
+more context like *at 5 o clock*, *the 28th day of this month*, *the house
+number 92*, and *the bus numbered 8*.
