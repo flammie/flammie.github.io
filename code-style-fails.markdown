@@ -212,3 +212,17 @@ baz;
 
 are common appearances in code-bases and really hard to see what's wrong (bar
 gets used inconditionally).
+
+## Being religious about don't-repeat-yourself (DRY)
+
+One of my biggest pet peeves is when people learn that good programming skills
+means that you always want to refactor code so that there is no two snippetes of
+code that are same or similar. Generalising can of course sometimes be good, but
+more often than not, putting two similar snippets of code together and then
+controlling "small" variations with extra logic ends up messier. The truth of
+the story is, computers don't mind if you have huge blocks of copy-pasted code
+walls with one or two small changes, and both of the codes will be easier to
+read since there's less of confusing logic flows.
+
+* [related youtube video on python by arjan
+  codes](https://www.youtube.com/watch?v=GmlZBdKhl9Y)
