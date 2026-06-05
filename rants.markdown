@@ -33,7 +33,9 @@ See also: [Flammie's academic works](/purplemonkeydishwasher/)
 * Notes on trying to [understand Flammie's English](my-english.html)
 * Personal notes on [how to review academic papers](reviewing-guidelines.html)
 * [Translating Swedish to Norwegian](swedish-to-norwegian.html), a list of
-  actual differences between the two *dialects*
+  actual differences between the two *dialects*, mostly lexical
+* [Translating Inari to North Sámi](inari-to-north-saami.html), a list of main
+  differences between these two languages, mostly lexical
 * [Zeros considered harmful in NLP](zerostuff-in-nlp.html)
 * [*Flags are not languages* aka why are we still talking about this in
   2021](flags-are-not-languages.html)
