@@ -15,4 +15,4 @@ that are shared between Finnish or Norwegian and vice versa.
 | **okko** | *vahkku* | week | **uke** | *viikko* |
 | ihe | jahki | year | år | vuosi |
 | **ollâopâttâh** | *universitehta* | *university* | *universitet* | **yliopisto** |
-
+| **koččâmuš** | gažaldat, jearaldat | question | spörsmål | **kysymys** |
