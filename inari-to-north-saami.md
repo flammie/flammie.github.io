@@ -16,3 +16,4 @@ that are shared between Finnish or Norwegian and vice versa.
 | ihe | jahki | year | år | vuosi |
 | **ollâopâttâh** | *universitehta* | *university* | *universitet* | **yliopisto** |
 | **koččâmuš** | gažaldat, jearaldat | question | spörsmål | **kysymys** |
+| jieht | ikte | yesterday | igår | eilen |
