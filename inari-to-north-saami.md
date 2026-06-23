@@ -17,3 +17,5 @@ that are shared between Finnish or Norwegian and vice versa.
 | **ollâopâttâh** | *universitehta* | *university* | *universitet* | **yliopisto** |
 | **koččâmuš** | gažaldat, jearaldat | question | spörsmål | **kysymys** |
 | jieht | ikte | yesterday | igår | eilen |
+| ennuv | ollu | much, many | mye | paljon |
+
